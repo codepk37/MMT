@@ -1,0 +1,5504 @@
+[
+  {
+    "endTime": "2022-09-16 18:00",
+    "artistName": "Lucky Ali",
+    "trackName": "O Sanam",
+    "msPlayed": 3029,
+    "sessionumber": 1
+  },
+  {
+    "endTime": "2022-09-16 18:04",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 87616,
+    "sessionumber": 1
+  },
+  {
+    "endTime": "2022-09-16 18:08",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 13482,
+    "sessionumber": 1
+  },
+  {
+    "endTime": "2022-09-16 18:36",
+    "artistName": "Bilal Saeed",
+    "trackName": "2 Number",
+    "msPlayed": 3520,
+    "sessionumber": 1
+  },
+  {
+    "endTime": "2022-09-17 00:40",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 00:42",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 88365,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 00:45",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 02:45",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 184499,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 02:48",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 02:59",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 03:02",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 03:06",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 204507,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 03:09",
+    "artistName": "Arijit Singh",
+    "trackName": "Mast Magan",
+    "msPlayed": 168846,
+    "sessionumber": 2
+  },
+  {
+    "endTime": "2022-09-17 05:29",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 05:54",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 146012,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 05:56",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 05:57",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 17536,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 06:01",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 204507,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 06:02",
+    "artistName": "Arijit Singh",
+    "trackName": "Mast Magan",
+    "msPlayed": 55544,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 06:43",
+    "artistName": "Lucky Ali",
+    "trackName": "O Sanam",
+    "msPlayed": 2598,
+    "sessionumber": 3
+  },
+  {
+    "endTime": "2022-09-17 10:40",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:43",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:46",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 204507,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:47",
+    "artistName": "Arijit Singh",
+    "trackName": "Mast Magan",
+    "msPlayed": 51804,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:48",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 73932,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:51",
+    "artistName": "Varinder Brar",
+    "trackName": "Takkar",
+    "msPlayed": 184058,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:52",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 54351,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:56",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Love Sick (feat. AR Paisley)",
+    "msPlayed": 232258,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:57",
+    "artistName": "Prem Dhillon",
+    "trackName": "Old Skool",
+    "msPlayed": 2809,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:57",
+    "artistName": "Jordan Sandhu",
+    "trackName": "Teeje Week",
+    "msPlayed": 208,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 10:57",
+    "artistName": "A.R. Rahman",
+    "trackName": "Ok Jaanu Title Track",
+    "msPlayed": 24936,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:00",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 209230,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:01",
+    "artistName": "Jon Lajoie",
+    "trackName": "Everyday Normal Guy 2",
+    "msPlayed": 1648,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:01",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 1114,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:01",
+    "artistName": "Atif Aslam",
+    "trackName": "Tu Jaane Na",
+    "msPlayed": 69976,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:06",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Chosen",
+    "msPlayed": 264000,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:08",
+    "artistName": "DIVINE",
+    "trackName": "Satya",
+    "msPlayed": 85587,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 11:10",
+    "artistName": "Authen",
+    "trackName": "Sanak",
+    "msPlayed": 102934,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:09",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 169987,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:11",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168587,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:15",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 172812,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:18",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 1238,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:18",
+    "artistName": "Jass Manak",
+    "trackName": "Prada",
+    "msPlayed": 182015,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:18",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 36589,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:23",
+    "artistName": "Lehmber Hussainpuri",
+    "trackName": "Sadi Gali",
+    "msPlayed": 264898,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:26",
+    "artistName": "AP Dhillon",
+    "trackName": "MAJHE AALE",
+    "msPlayed": 169846,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:31",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Soch",
+    "msPlayed": 346894,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:35",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Peaches (feat. Anne-Marie)",
+    "msPlayed": 189706,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:37",
+    "artistName": "Mankirt Aulakh",
+    "trackName": "Gangland",
+    "msPlayed": 167887,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:40",
+    "artistName": "Mickey Singh",
+    "trackName": "All By Myself",
+    "msPlayed": 179764,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:46",
+    "artistName": "Rahat Fateh Ali Khan",
+    "trackName": "Jiya Dhadak Dhadak Jaye",
+    "msPlayed": 319285,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 12:49",
+    "artistName": "Emiway Bantai",
+    "trackName": "Ring Ring",
+    "msPlayed": 197565,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "Raftaar",
+    "trackName": "A Flying Jatt - Title Track",
+    "msPlayed": 520992,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Dil Diyan Gallan",
+    "msPlayed": 207,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "Vishal Dadlani",
+    "trackName": "The Unforgiven",
+    "msPlayed": 0,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "The Script",
+    "trackName": "Hall of Fame (feat. will.i.am)",
+    "msPlayed": 0,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "Jugraj Sandhu",
+    "trackName": "Mere Wala Sardar",
+    "msPlayed": 0,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "Salim\u2013Sulaiman",
+    "trackName": "O Re Piya",
+    "msPlayed": 0,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 13:20",
+    "artistName": "Agam",
+    "trackName": "Rangapura Vihara",
+    "msPlayed": 564243,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 14:25",
+    "artistName": "Hans Raj Hans",
+    "trackName": "Ae Jo Silli Silli-Narazgi (From \"T-Series Mixtape Punjabi\")",
+    "msPlayed": 35462,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 14:25",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 14:30",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 102381,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:23",
+    "artistName": "Jugraj Sandhu",
+    "trackName": "Mere Wala Sardar",
+    "msPlayed": 45690,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:26",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 71444,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:29",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 177309,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:30",
+    "artistName": "AP Dhillon",
+    "trackName": "TERE TE",
+    "msPlayed": 114165,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:33",
+    "artistName": "AP Dhillon",
+    "trackName": "SPACESHIP",
+    "msPlayed": 124383,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:36",
+    "artistName": "AP Dhillon",
+    "trackName": "Excuses",
+    "msPlayed": 176160,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:39",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:42",
+    "artistName": "AP Dhillon",
+    "trackName": "Insane",
+    "msPlayed": 205940,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:45",
+    "artistName": "AP Dhillon",
+    "trackName": "Ma Belle",
+    "msPlayed": 159810,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:48",
+    "artistName": "AP Dhillon",
+    "trackName": "MAJHE AALE",
+    "msPlayed": 169883,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:49",
+    "artistName": "AP Dhillon",
+    "trackName": "Top Boy",
+    "msPlayed": 75673,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:52",
+    "artistName": "AP Dhillon",
+    "trackName": "AGAINST ALL ODDS",
+    "msPlayed": 169920,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:53",
+    "artistName": "AP Dhillon",
+    "trackName": "Brown Munde",
+    "msPlayed": 85918,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 15:57",
+    "artistName": "AP Dhillon",
+    "trackName": "WAR",
+    "msPlayed": 221093,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:00",
+    "artistName": "AP Dhillon",
+    "trackName": "Toxic",
+    "msPlayed": 184019,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:02",
+    "artistName": "AP Dhillon",
+    "trackName": "Saada Pyaar",
+    "msPlayed": 133815,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:05",
+    "artistName": "AP Dhillon",
+    "trackName": "Majhail",
+    "msPlayed": 175088,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:07",
+    "artistName": "AP Dhillon",
+    "trackName": "Droptop",
+    "msPlayed": 122240,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:11",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209042,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:13",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 129796,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:15",
+    "artistName": "AP Dhillon",
+    "trackName": "Arrogant",
+    "msPlayed": 102126,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:17",
+    "artistName": "AP Dhillon",
+    "trackName": "Feels",
+    "msPlayed": 151169,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:20",
+    "artistName": "AP Dhillon",
+    "trackName": "Goat",
+    "msPlayed": 159039,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:22",
+    "artistName": "AP Dhillon",
+    "trackName": "Deadly",
+    "msPlayed": 135062,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:24",
+    "artistName": "AP Dhillon",
+    "trackName": "Foreigns",
+    "msPlayed": 126858,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:27",
+    "artistName": "Gminxr",
+    "trackName": "Hustlin'",
+    "msPlayed": 164971,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:30",
+    "artistName": "AP Dhillon",
+    "trackName": "Fate",
+    "msPlayed": 169926,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:33",
+    "artistName": "AP Dhillon",
+    "trackName": "Most Wanted",
+    "msPlayed": 183937,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 16:36",
+    "artistName": "AP Dhillon",
+    "trackName": "Kirsaan",
+    "msPlayed": 174013,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 17:32",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 1256,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 17:32",
+    "artistName": "Satinder Sartaaj",
+    "trackName": "Seven Rivers - Qaseeda",
+    "msPlayed": 948,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 17:35",
+    "artistName": "AP Dhillon",
+    "trackName": "MAJHE AALE",
+    "msPlayed": 169844,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 17:53",
+    "artistName": "AP Dhillon",
+    "trackName": "Foreigns",
+    "msPlayed": 88690,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 17:57",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209137,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 18:00",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 208994,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 18:01",
+    "artistName": "Prem Dhillon",
+    "trackName": "Old Skool",
+    "msPlayed": 24887,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-17 18:04",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 30208,
+    "sessionumber": 4
+  },
+  {
+    "endTime": "2022-09-18 07:45",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "B-Town (feat. Sunny Malton)",
+    "msPlayed": 9125,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 07:45",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 25936,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 07:48",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 07:50",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 07:53",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 07:56",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 129718,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 07:57",
+    "artistName": "Shubh",
+    "trackName": "Elevated",
+    "msPlayed": 93019,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:00",
+    "artistName": "Gur Sidhu",
+    "trackName": "Gabru",
+    "msPlayed": 17383,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:00",
+    "artistName": "Geeta Zaildar",
+    "trackName": "Sang Maar Gayi",
+    "msPlayed": 1764,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:00",
+    "artistName": "Tegi Pannu",
+    "trackName": "Fully Loaded",
+    "msPlayed": 148858,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:00",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Satisfy",
+    "msPlayed": 3227,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:00",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Welcome to My Hood",
+    "msPlayed": 11795,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:03",
+    "artistName": "Intense",
+    "trackName": "Sahiba",
+    "msPlayed": 150349,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:04",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Aj Kal Ve",
+    "msPlayed": 49388,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:05",
+    "artistName": "Sachin-Jigar",
+    "trackName": "Saibo",
+    "msPlayed": 71633,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:08",
+    "artistName": "Shae Gill",
+    "trackName": "Pasoori",
+    "msPlayed": 221193,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:13",
+    "artistName": "A.R. Rahman",
+    "trackName": "Jashn-E-Bahaaraa",
+    "msPlayed": 2089,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 08:13",
+    "artistName": "Anuv Jain",
+    "trackName": "Maula",
+    "msPlayed": 232501,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 09:09",
+    "artistName": "Rahat Fateh Ali Khan",
+    "trackName": "Dil To Bachcha Hai",
+    "msPlayed": 326473,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 09:56",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 12376,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 09:56",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 09:57",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 57724,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-18 10:16",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 141850,
+    "sessionumber": 5
+  },
+  {
+    "endTime": "2022-09-19 02:45",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 6
+  },
+  {
+    "endTime": "2022-09-19 02:48",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 6
+  },
+  {
+    "endTime": "2022-09-19 03:32",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 9728,
+    "sessionumber": 6
+  },
+  {
+    "endTime": "2022-09-19 05:26",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 155271,
+    "sessionumber": 6
+  },
+  {
+    "endTime": "2022-09-19 07:47",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 278,
+    "sessionumber": 7
+  },
+  {
+    "endTime": "2022-09-19 07:50",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 7
+  },
+  {
+    "endTime": "2022-09-19 07:53",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 7
+  },
+  {
+    "endTime": "2022-09-19 08:21",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 102036,
+    "sessionumber": 7
+  },
+  {
+    "endTime": "2022-09-19 10:31",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:32",
+    "artistName": "Jaura Phagwara",
+    "trackName": "Sarkar",
+    "msPlayed": 64017,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:35",
+    "artistName": "Guri",
+    "trackName": "Nira Ishq",
+    "msPlayed": 181514,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:38",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 204507,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:42",
+    "artistName": "Mitraz",
+    "trackName": "Junoon",
+    "msPlayed": 191111,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:43",
+    "artistName": "Jugraj Sandhu",
+    "trackName": "Mere Wala Sardar",
+    "msPlayed": 106216,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:47",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:52",
+    "artistName": "Jugraj Sandhu",
+    "trackName": "Mere Wala Sardar",
+    "msPlayed": 316000,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:55",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 170387,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:56",
+    "artistName": "Ammy Virk",
+    "trackName": "Wang Da Naap",
+    "msPlayed": 63598,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 10:59",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:02",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:03",
+    "artistName": "Ammy Virk",
+    "trackName": "Wang Da Naap",
+    "msPlayed": 25541,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:06",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:08",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:11",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:15",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:15",
+    "artistName": "Ammy Virk",
+    "trackName": "Wang Da Naap",
+    "msPlayed": 19736,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:19",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 174660,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:22",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Raat Di Gedi",
+    "msPlayed": 198783,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:23",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 15627,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 11:23",
+    "artistName": "AP Dhillon",
+    "trackName": "Majhail",
+    "msPlayed": 44154,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 12:26",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 159892,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 12:29",
+    "artistName": "AP Dhillon",
+    "trackName": "Goat",
+    "msPlayed": 159130,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 12:31",
+    "artistName": "AP Dhillon",
+    "trackName": "Fate",
+    "msPlayed": 170666,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-19 12:32",
+    "artistName": "AP Dhillon",
+    "trackName": "Saada Pyaar",
+    "msPlayed": 20102,
+    "sessionumber": 8
+  },
+  {
+    "endTime": "2022-09-20 04:01",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:06",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:12",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 333516,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:15",
+    "artistName": "Guri",
+    "trackName": "Nira Ishq",
+    "msPlayed": 181514,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:16",
+    "artistName": "Jugraj Sandhu",
+    "trackName": "Mere Wala Sardar",
+    "msPlayed": 1927,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:16",
+    "artistName": "Jaura Phagwara",
+    "trackName": "Sarkar",
+    "msPlayed": 17282,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:16",
+    "artistName": "Karan Randhawa",
+    "trackName": "Tere Bare",
+    "msPlayed": 2043,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:16",
+    "artistName": "Ammy Virk",
+    "trackName": "Wang Da Naap",
+    "msPlayed": 1439,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:22",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 170387,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:22",
+    "artistName": "Nikk",
+    "trackName": "Badaami Rang",
+    "msPlayed": 0,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:23",
+    "artistName": "Maninder Buttar",
+    "trackName": "Sakhiyaan Club Mix - Club Mix",
+    "msPlayed": 35689,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:26",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:29",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 04:31",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 40865,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:22",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Suitan Da Swag",
+    "msPlayed": 3900,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:22",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 82895,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:23",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Galwakdi",
+    "msPlayed": 25263,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:24",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Wrangler",
+    "msPlayed": 86981,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:24",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Jattan De Munde - From \"Rabb da Radio 2\"",
+    "msPlayed": 2089,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:27",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Blame",
+    "msPlayed": 157872,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:29",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Life",
+    "msPlayed": 37175,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:29",
+    "artistName": "Mankirt Aulakh",
+    "trackName": "2 Raflaan (feat. Gurlej Akhtar)",
+    "msPlayed": 99985,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:30",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Maahi Ve - From \"Khao Piyo Aish Karo\"",
+    "msPlayed": 22453,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:31",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Raunda Wala",
+    "msPlayed": 13235,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:31",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Outlaw",
+    "msPlayed": 89814,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:34",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 05:38",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 157849,
+    "sessionumber": 9
+  },
+  {
+    "endTime": "2022-09-20 10:12",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:12",
+    "artistName": "Maninder Buttar",
+    "trackName": "Sakhiyaan Club Mix - Club Mix",
+    "msPlayed": 21571,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:15",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:17",
+    "artistName": "DJ Kawal",
+    "trackName": "Ma Belle Kinj Kara Tareef - Remix",
+    "msPlayed": 102127,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:23",
+    "artistName": "Satinder Sartaaj",
+    "trackName": "Udaarian",
+    "msPlayed": 342585,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:25",
+    "artistName": "Gyanii Sangeet",
+    "trackName": "Teri Teri Yaad",
+    "msPlayed": 133512,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:29",
+    "artistName": "Sona Mohapatra",
+    "trackName": "Ambarsariya",
+    "msPlayed": 248182,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:32",
+    "artistName": "AC/DC",
+    "trackName": "Demon Fire",
+    "msPlayed": 210360,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:36",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Burberry",
+    "msPlayed": 2739,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:36",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Unforgettable",
+    "msPlayed": 343,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:36",
+    "artistName": "Mankirt Aulakh",
+    "trackName": "Badnam ( Orignal Version )",
+    "msPlayed": 203595,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:38",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Burberry",
+    "msPlayed": 23,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:38",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Unforgettable",
+    "msPlayed": 118027,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:42",
+    "artistName": "Jstar",
+    "trackName": "Gabhru",
+    "msPlayed": 218181,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:43",
+    "artistName": "Ed Sheeran",
+    "trackName": "I Don't Care (with Justin Bieber)",
+    "msPlayed": 108905,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:44",
+    "artistName": "Prateek Kuhad",
+    "trackName": "Kasoor",
+    "msPlayed": 18018,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:47",
+    "artistName": "Anuv Jain",
+    "trackName": "Gul",
+    "msPlayed": 6269,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:47",
+    "artistName": "Maroon 5",
+    "trackName": "Girls Like You (feat. Cardi B) - Cardi B Version",
+    "msPlayed": 0,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:47",
+    "artistName": "When Chai Met Toast",
+    "trackName": "Firefly",
+    "msPlayed": 21060,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:47",
+    "artistName": "Justin Bieber",
+    "trackName": "Love Yourself",
+    "msPlayed": 189451,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:55",
+    "artistName": "Anuv Jain",
+    "trackName": "Maula",
+    "msPlayed": 440058,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 10:58",
+    "artistName": "Anuv Jain",
+    "trackName": "Alag Aasmaan",
+    "msPlayed": 212773,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:04",
+    "artistName": "Papon",
+    "trackName": "Jiyein Kyun",
+    "msPlayed": 343371,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:07",
+    "artistName": "Armaan Malik",
+    "trackName": "Buttabomma - Telugu",
+    "msPlayed": 198782,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:10",
+    "artistName": "Jass Manak",
+    "trackName": "Prada",
+    "msPlayed": 182115,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:14",
+    "artistName": "Darshan Raval",
+    "trackName": "Tera Zikr",
+    "msPlayed": 208500,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:15",
+    "artistName": "Tanishk Bagchi",
+    "trackName": "Raataan Lambiyan (From \"Shershaah\")",
+    "msPlayed": 23606,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:15",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Welcome to My Hood",
+    "msPlayed": 1114,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:15",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "G.O.A.T.",
+    "msPlayed": 952,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:16",
+    "artistName": "Pritam",
+    "trackName": "Tum Jo Aaye",
+    "msPlayed": 487,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:16",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Fuck Em All",
+    "msPlayed": 12167,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:20",
+    "artistName": "Akhil Sachdeva",
+    "trackName": "Humsafar",
+    "msPlayed": 268463,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:21",
+    "artistName": "David Guetta",
+    "trackName": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+    "msPlayed": 19428,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:21",
+    "artistName": "Jon Lajoie",
+    "trackName": "Everyday Normal Guy 2",
+    "msPlayed": 1277,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 11:24",
+    "artistName": "A.R. Rahman",
+    "trackName": "Hosanna",
+    "msPlayed": 165233,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:17",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 116,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:21",
+    "artistName": "A.R. Rahman",
+    "trackName": "Radha Kaise Na Jale",
+    "msPlayed": 12781,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:21",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:23",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 123019,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:26",
+    "artistName": "Hans Raj Hans",
+    "trackName": "Ae Jo Silli Silli-Narazgi (From \"T-Series Mixtape Punjabi\")",
+    "msPlayed": 3304,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:26",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:28",
+    "artistName": "Shubh",
+    "trackName": "Elevated",
+    "msPlayed": 3691,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:28",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "East Side Flow",
+    "msPlayed": 1346,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:28",
+    "artistName": "Korala Maan",
+    "trackName": "1 Hour",
+    "msPlayed": 4411,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:28",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Blame",
+    "msPlayed": 3181,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:28",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Life",
+    "msPlayed": 2252,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:28",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Fuck Em All",
+    "msPlayed": 91022,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:30",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Bulls Eye",
+    "msPlayed": 73212,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:35",
+    "artistName": "AP Dhillon",
+    "trackName": "WAR",
+    "msPlayed": 221142,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:36",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Big Shot",
+    "msPlayed": 47824,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:38",
+    "artistName": "Tarsem Jassar",
+    "trackName": "My Pride",
+    "msPlayed": 121788,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:42",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Tor",
+    "msPlayed": 3551,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:42",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 3343,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:42",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Love Sick (feat. AR Paisley)",
+    "msPlayed": 232258,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:46",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 201379,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:49",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:51",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:54",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 12:57",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 141728,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:00",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:03",
+    "artistName": "Akhil",
+    "trackName": "Bachalo",
+    "msPlayed": 30836,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:03",
+    "artistName": "Maninder Buttar",
+    "trackName": "Sakhiyaan Club Mix - Club Mix",
+    "msPlayed": 132075,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:04",
+    "artistName": "Guri",
+    "trackName": "Yaar Beli",
+    "msPlayed": 42933,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:07",
+    "artistName": "Deep Jandu",
+    "trackName": "Pagol",
+    "msPlayed": 216642,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:08",
+    "artistName": "Shubh",
+    "trackName": "Elevated",
+    "msPlayed": 33552,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:08",
+    "artistName": "Sachin-Jigar",
+    "trackName": "Saibo",
+    "msPlayed": 905,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:09",
+    "artistName": "Kay Vee Singh",
+    "trackName": "Jatti da Crush",
+    "msPlayed": 62461,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:11",
+    "artistName": "Sultana",
+    "trackName": "Patakha Guddi",
+    "msPlayed": 108831,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:14",
+    "artistName": "Karan Aujla",
+    "trackName": "Gangsta",
+    "msPlayed": 180302,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:15",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Burberry",
+    "msPlayed": 1625,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:15",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Fuck Em All",
+    "msPlayed": 2554,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:18",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 204507,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:23",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 177391,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:27",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Peaches (feat. Anne-Marie)",
+    "msPlayed": 189882,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:31",
+    "artistName": "Karan Aujla",
+    "trackName": "Gangsta",
+    "msPlayed": 190153,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:36",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Burberry",
+    "msPlayed": 200483,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:36",
+    "artistName": "Yasser Desai",
+    "trackName": "Tenu Na Bol Pawaan",
+    "msPlayed": 464,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:36",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Famous",
+    "msPlayed": 1532,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:36",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Fuck Em All",
+    "msPlayed": 998,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-20 13:38",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Chosen",
+    "msPlayed": 121092,
+    "sessionumber": 10
+  },
+  {
+    "endTime": "2022-09-21 05:30",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Chosen",
+    "msPlayed": 2368,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 05:31",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 114636,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 06:35",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 139250,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 06:38",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 06:40",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 116198,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:43",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 210907,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:45",
+    "artistName": "Jugraj Sandhu",
+    "trackName": "Mere Wala Sardar",
+    "msPlayed": 859,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:45",
+    "artistName": "Jaura Phagwara",
+    "trackName": "Sarkar",
+    "msPlayed": 1416,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:45",
+    "artistName": "Mitraz",
+    "trackName": "Junoon",
+    "msPlayed": 170653,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:45",
+    "artistName": "Guri",
+    "trackName": "Nira Ishq",
+    "msPlayed": 2252,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:48",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:52",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 204507,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:55",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 835,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:55",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:55",
+    "artistName": "Darshan Raval",
+    "trackName": "Hawa Banke",
+    "msPlayed": 2670,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:55",
+    "artistName": "Ammy Virk",
+    "trackName": "Wang Da Naap",
+    "msPlayed": 29476,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:58",
+    "artistName": "Akhil",
+    "trackName": "Bachalo",
+    "msPlayed": 1602,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:58",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 08:58",
+    "artistName": "Karan Randhawa",
+    "trackName": "Tere Bare",
+    "msPlayed": 15318,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:01",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:04",
+    "artistName": "A Kay",
+    "trackName": "AMLI DRIP",
+    "msPlayed": 2856,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:04",
+    "artistName": "Tyson Sidhu",
+    "trackName": "Father Sabb",
+    "msPlayed": 29146,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:04",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:07",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:08",
+    "artistName": "R Nait",
+    "trackName": "Majak Thodi Ae",
+    "msPlayed": 5131,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:08",
+    "artistName": "A Kay",
+    "trackName": "AMLI DRIP",
+    "msPlayed": 51176,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:08",
+    "artistName": "Ritviz",
+    "trackName": "Baaraat",
+    "msPlayed": 0,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:09",
+    "artistName": "Twinbeatz",
+    "trackName": "She Bad",
+    "msPlayed": 12887,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:11",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:14",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:17",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:21",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:23",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:26",
+    "artistName": "Akhil",
+    "trackName": "Bachalo",
+    "msPlayed": 165108,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 09:29",
+    "artistName": "Vicky",
+    "trackName": "Top Notch Gabru",
+    "msPlayed": 8215,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:23",
+    "artistName": "OneRepublic",
+    "trackName": "Everybody Loves Me",
+    "msPlayed": 4597,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:23",
+    "artistName": "Yasser Desai",
+    "trackName": "Tenu Na Bol Pawaan",
+    "msPlayed": 2530,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:23",
+    "artistName": "Jasmine Sandlas",
+    "trackName": "Baddal",
+    "msPlayed": 882,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:26",
+    "artistName": "omer inayat",
+    "trackName": "Tenu Le Ke",
+    "msPlayed": 174428,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:26",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Peaches (feat. Anne-Marie)",
+    "msPlayed": 1021,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:26",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Peaches (feat. Anne-Marie)",
+    "msPlayed": 10959,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:26",
+    "artistName": "Jass Manak",
+    "trackName": "Prada",
+    "msPlayed": 464,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:29",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Peaches (feat. Anne-Marie)",
+    "msPlayed": 178928,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:32",
+    "artistName": "Jass Manak",
+    "trackName": "Prada",
+    "msPlayed": 182115,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:37",
+    "artistName": "Rapperiya Baalam",
+    "trackName": "Hariyala Banna (feat. Ravinder Upadhyay & Kamal Choudhary)",
+    "msPlayed": 308673,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:40",
+    "artistName": "Geeta Zaildar",
+    "trackName": "Sang Maar Gayi",
+    "msPlayed": 178958,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:42",
+    "artistName": "Sneha Khanwalkar",
+    "trackName": "Moora",
+    "msPlayed": 120638,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:45",
+    "artistName": "Drake",
+    "trackName": "One Dance",
+    "msPlayed": 173986,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:48",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "295",
+    "msPlayed": 153309,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:49",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Satisfy",
+    "msPlayed": 74443,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:52",
+    "artistName": "KK",
+    "trackName": "Ajab Si",
+    "msPlayed": 3633,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:52",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 603,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:52",
+    "artistName": "Salim\u2013Sulaiman",
+    "trackName": "Maula Mere Lele Meri Jaan",
+    "msPlayed": 15603,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:52",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:56",
+    "artistName": "Shankar-Ehsaan-Loy",
+    "trackName": "Sajde",
+    "msPlayed": 3663,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 10:56",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 201379,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 12:27",
+    "artistName": "Varinder Brar",
+    "trackName": "Takkar",
+    "msPlayed": 80317,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 12:28",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 13738,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:10",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:13",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 130019,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:15",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:20",
+    "artistName": "Green Day",
+    "trackName": "Boulevard of Broken Dreams",
+    "msPlayed": 262333,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:25",
+    "artistName": "Sonu Nigam",
+    "trackName": "Tumse Milke Dil Ka",
+    "msPlayed": 8057,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:25",
+    "artistName": "Shankar-Ehsaan-Loy",
+    "trackName": "Sajde",
+    "msPlayed": 88007,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:29",
+    "artistName": "Vishal Dadlani",
+    "trackName": "The Unforgiven",
+    "msPlayed": 40577,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:29",
+    "artistName": "Emiway Bantai",
+    "trackName": "Ring Ring",
+    "msPlayed": 197647,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:31",
+    "artistName": "Bohemia",
+    "trackName": "Same Beef",
+    "msPlayed": 90441,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:35",
+    "artistName": "Jassie Gill",
+    "trackName": "Guitar Sikhda",
+    "msPlayed": 189333,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:36",
+    "artistName": "Mohit Chauhan",
+    "trackName": "Matargashti",
+    "msPlayed": 42,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:36",
+    "artistName": "Ajay Gogavale",
+    "trackName": "Zingaat",
+    "msPlayed": 1066,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:36",
+    "artistName": "Jassie Gill",
+    "trackName": "Bapu Zimidar",
+    "msPlayed": 0,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:36",
+    "artistName": "Pritam",
+    "trackName": "Kabira",
+    "msPlayed": 0,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:36",
+    "artistName": "Sukhwinder Singh",
+    "trackName": "Chaiyya Chaiyya (From \"Dil Se\")",
+    "msPlayed": 640,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:36",
+    "artistName": "Vibe2Vibe",
+    "trackName": "Beautiful People",
+    "msPlayed": 3838,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:38",
+    "artistName": "Epic Soundtrack Allstars",
+    "trackName": "I'm Shipping Up to Boston (From \"The Departed\")",
+    "msPlayed": 154000,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:43",
+    "artistName": "Neeraj Shridhar",
+    "trackName": "Aahun Aahun",
+    "msPlayed": 290493,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-21 13:45",
+    "artistName": "OneRepublic",
+    "trackName": "Everybody Loves Me",
+    "msPlayed": 97397,
+    "sessionumber": 11
+  },
+  {
+    "endTime": "2022-09-22 04:00",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 04:23",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 112627,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 04:29",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 04:32",
+    "artistName": "Vishal Dadlani",
+    "trackName": "Aao Na",
+    "msPlayed": 179013,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:24",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 417,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:27",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 170504,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:29",
+    "artistName": "Khan Bhaini",
+    "trackName": "Gaddi Pichhe Naa",
+    "msPlayed": 4806,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:29",
+    "artistName": "Marshmello",
+    "trackName": "BIBA",
+    "msPlayed": 128324,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:29",
+    "artistName": "Marshmello",
+    "trackName": "BIBA",
+    "msPlayed": 1509,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:30",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 13978,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 05:33",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 62080,
+    "sessionumber": 12
+  },
+  {
+    "endTime": "2022-09-22 11:28",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 11:29",
+    "artistName": "Marshmello",
+    "trackName": "BIBA",
+    "msPlayed": 5699,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 11:32",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 11:32",
+    "artistName": "Marshmello",
+    "trackName": "BIBA",
+    "msPlayed": 730,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:35",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 93367,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:38",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:39",
+    "artistName": "Anirudh Ravichander",
+    "trackName": "Vaathi Coming (From \"Master\")",
+    "msPlayed": 44197,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:42",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:42",
+    "artistName": "Mankirt Aulakh",
+    "trackName": "Badnam ( Orignal Version )",
+    "msPlayed": 8731,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:45",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:46",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 580,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:46",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 1509,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:46",
+    "artistName": "Parmish Verma",
+    "trackName": "Shadgi",
+    "msPlayed": 17815,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:49",
+    "artistName": "Amit Trivedi",
+    "trackName": "Gal Mitthi Mitthi",
+    "msPlayed": 26470,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:49",
+    "artistName": "Amit Trivedi",
+    "trackName": "Nindaraan Diyaan",
+    "msPlayed": 5921,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:49",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:49",
+    "artistName": "When Chai Met Toast",
+    "trackName": "Firefly",
+    "msPlayed": 10325,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:50",
+    "artistName": "QARAN",
+    "trackName": "Haaye Oye (feat. Ash King)",
+    "msPlayed": 20131,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:55",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 201379,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:56",
+    "artistName": "Dikshant",
+    "trackName": "Aankhon Se Batana",
+    "msPlayed": 20637,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 12:59",
+    "artistName": "Shubh",
+    "trackName": "We Rollin",
+    "msPlayed": 199205,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 13:03",
+    "artistName": "Vishal Dadlani",
+    "trackName": "Aao Na",
+    "msPlayed": 255831,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 13:07",
+    "artistName": "Pink Sweat$",
+    "trackName": "At My Worst",
+    "msPlayed": 46489,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 13:17",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 168000,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 13:18",
+    "artistName": "Guri",
+    "trackName": "Tere Karke",
+    "msPlayed": 41640,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 13:19",
+    "artistName": "Satbir Aujla",
+    "trackName": "Dil Todya",
+    "msPlayed": 74884,
+    "sessionumber": 13
+  },
+  {
+    "endTime": "2022-09-22 16:36",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:41",
+    "artistName": "Dream Note",
+    "trackName": "Waqt Ki Baatein",
+    "msPlayed": 2716,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:41",
+    "artistName": "Priyanka Chopra",
+    "trackName": "Dil Dhadakne Do",
+    "msPlayed": 2832,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:41",
+    "artistName": "Arijit Singh",
+    "trackName": "Pal",
+    "msPlayed": 283898,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:41",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 2438,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:41",
+    "artistName": "Pree Mayall",
+    "trackName": "Ve Nehalia",
+    "msPlayed": 3065,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:45",
+    "artistName": "Dream Note",
+    "trackName": "Waqt Ki Baatein",
+    "msPlayed": 243310,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:45",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 4828,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:45",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "G.O.A.T.",
+    "msPlayed": 2089,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:48",
+    "artistName": "Imran Khan feat. Lucky",
+    "trackName": "Ni Nachleh",
+    "msPlayed": 859,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:48",
+    "artistName": "The Local Train",
+    "trackName": "Aaftaab",
+    "msPlayed": 158987,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:48",
+    "artistName": "D.L.i.d",
+    "trackName": "Colour In Your Hands",
+    "msPlayed": 3924,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:48",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 2879,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:48",
+    "artistName": "Mickey Singh",
+    "trackName": "CROWD",
+    "msPlayed": 2948,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:48",
+    "artistName": "AP Dhillon",
+    "trackName": "WAR",
+    "msPlayed": 2948,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:50",
+    "artistName": "Tanishk Bagchi",
+    "trackName": "Raataan Lambiyan (From \"Shershaah\")",
+    "msPlayed": 110457,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:54",
+    "artistName": "B Praak",
+    "trackName": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+    "msPlayed": 266005,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:56",
+    "artistName": "Jasleen Royal",
+    "trackName": "Ranjha (From \"Shershaah\")",
+    "msPlayed": 106964,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:56",
+    "artistName": "B Praak",
+    "trackName": "Mann Bharrya",
+    "msPlayed": 2577,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 16:58",
+    "artistName": "Maninder Buttar",
+    "trackName": "Sakhiyaan",
+    "msPlayed": 135024,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:00",
+    "artistName": "Akanksha Sharma",
+    "trackName": "Pasoori in Shinchan Voice",
+    "msPlayed": 76858,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:01",
+    "artistName": "Shae Gill",
+    "trackName": "Pasoori",
+    "msPlayed": 952,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:01",
+    "artistName": "King",
+    "trackName": "Tu Aake Dekhle",
+    "msPlayed": 0,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:01",
+    "artistName": "AP Dhillon",
+    "trackName": "Excuses",
+    "msPlayed": 0,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:03",
+    "artistName": "Amit Trivedi",
+    "trackName": "Iktara (From \"Wake Up Sid\")",
+    "msPlayed": 1300,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:03",
+    "artistName": "Shae Gill",
+    "trackName": "Pasoori",
+    "msPlayed": 113150,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 17:59",
+    "artistName": "Amit Trivedi",
+    "trackName": "Iktara (From \"Wake Up Sid\")",
+    "msPlayed": 2325,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-22 18:00",
+    "artistName": "Akanksha Sharma",
+    "trackName": "Pasoori in Shinchan Voice",
+    "msPlayed": 37482,
+    "sessionumber": 14
+  },
+  {
+    "endTime": "2022-09-23 03:25",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 105186,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 03:28",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 03:31",
+    "artistName": "OAFF",
+    "trackName": "Doobey (From \"Gehraiyaan\")",
+    "msPlayed": 177154,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:35",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:36",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 51478,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:39",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:43",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:43",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 26128,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:48",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:51",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 147340,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:55",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 210750,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 04:56",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 70106,
+    "sessionumber": 15
+  },
+  {
+    "endTime": "2022-09-23 11:06",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 7221,
+    "sessionumber": 16
+  },
+  {
+    "endTime": "2022-09-23 11:09",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 175909,
+    "sessionumber": 16
+  },
+  {
+    "endTime": "2022-09-23 11:13",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 16
+  },
+  {
+    "endTime": "2022-09-23 14:16",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 168695,
+    "sessionumber": 17
+  },
+  {
+    "endTime": "2022-09-23 15:03",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 17
+  },
+  {
+    "endTime": "2022-09-23 15:06",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Laembadgini",
+    "msPlayed": 186312,
+    "sessionumber": 17
+  },
+  {
+    "endTime": "2022-09-23 15:09",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168586,
+    "sessionumber": 17
+  },
+  {
+    "endTime": "2022-09-23 15:10",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 68919,
+    "sessionumber": 17
+  },
+  {
+    "endTime": "2022-09-23 15:28",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 195929,
+    "sessionumber": 17
+  },
+  {
+    "endTime": "2022-09-24 08:50",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 27144,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "Amit Trivedi",
+    "trackName": "Jaikal Mahakal (From \"Goodbye\")",
+    "msPlayed": 3390,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 18645,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 1300,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "AP Dhillon",
+    "trackName": "DESIRES",
+    "msPlayed": 2391,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 9845,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "Tarsem Jassar",
+    "trackName": "No Count",
+    "msPlayed": 1346,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:21",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 1160,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:22",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 43862,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:22",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 22871,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 09:23",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 20921,
+    "sessionumber": 18
+  },
+  {
+    "endTime": "2022-09-24 12:51",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 15509,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:14",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 114491,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "Nawab",
+    "trackName": "Expert Jatt",
+    "msPlayed": 46,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "So High",
+    "msPlayed": 1091,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "AP Dhillon",
+    "trackName": "Goat",
+    "msPlayed": 1811,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 2229,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "AP Dhillon",
+    "trackName": "Majhail",
+    "msPlayed": 835,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "AP Dhillon",
+    "trackName": "Majhail",
+    "msPlayed": 111751,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "Shooter Kahlon",
+    "trackName": "Game",
+    "msPlayed": 0,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "AP Dhillon",
+    "trackName": "Droptop",
+    "msPlayed": 1114,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "AP Dhillon",
+    "trackName": "Excuses",
+    "msPlayed": 0,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:16",
+    "artistName": "Baani Sandhu",
+    "trackName": "8 Parche",
+    "msPlayed": 0,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:23",
+    "artistName": "AP Dhillon",
+    "trackName": "Excuses",
+    "msPlayed": 108158,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:25",
+    "artistName": "Karan Aujla",
+    "trackName": "Adhiya",
+    "msPlayed": 85890,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:25",
+    "artistName": "The Weeknd",
+    "trackName": "Blinding Lights",
+    "msPlayed": 38266,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:25",
+    "artistName": "Baani Sandhu",
+    "trackName": "Affair",
+    "msPlayed": 9845,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:26",
+    "artistName": "Ezu",
+    "trackName": "Yaara Tu",
+    "msPlayed": 24079,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:26",
+    "artistName": "The Score",
+    "trackName": "Unstoppable",
+    "msPlayed": 9079,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:26",
+    "artistName": "Mickey Singh",
+    "trackName": "All By Myself",
+    "msPlayed": 30836,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:27",
+    "artistName": "Arjun Kanungo",
+    "trackName": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+    "msPlayed": 50712,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:28",
+    "artistName": "Ritviz",
+    "trackName": "Roz",
+    "msPlayed": 18436,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:28",
+    "artistName": "Aparshakti Khurana",
+    "trackName": "Balle Ni Balle",
+    "msPlayed": 28398,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:29",
+    "artistName": "Amrit Maan",
+    "trackName": "Bamb Jatt",
+    "msPlayed": 68359,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:30",
+    "artistName": "Suryansh Bhatt",
+    "trackName": "Shillong",
+    "msPlayed": 11795,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:30",
+    "artistName": "Pritam",
+    "trackName": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
+    "msPlayed": 63297,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:31",
+    "artistName": "Gippy Grewal",
+    "trackName": "Car Nachdi-Hornn Blow (From \"T-Series Mixtape Punjabi\")",
+    "msPlayed": 17600,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:31",
+    "artistName": "King",
+    "trackName": "Tu Aake Dekhle",
+    "msPlayed": 34551,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:32",
+    "artistName": "Darshan Raval",
+    "trackName": "Chogada (From \"Loveyatri\")",
+    "msPlayed": 34876,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:32",
+    "artistName": "Param Singh",
+    "trackName": "Daru Badnaam",
+    "msPlayed": 1927,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:32",
+    "artistName": "Mickey Singh",
+    "trackName": "CROWD",
+    "msPlayed": 7616,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:33",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Dance Like",
+    "msPlayed": 21501,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:33",
+    "artistName": "Priyanka Chopra",
+    "trackName": "Dil Dhadakne Do",
+    "msPlayed": 20062,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:34",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 58189,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:34",
+    "artistName": "Life Loops",
+    "trackName": "Falling",
+    "msPlayed": 36548,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:36",
+    "artistName": "Gur Sidhu",
+    "trackName": "Gabru",
+    "msPlayed": 64388,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:36",
+    "artistName": "Aroob Khan",
+    "trackName": "Gucci",
+    "msPlayed": 38498,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:37",
+    "artistName": "QARAN",
+    "trackName": "Haaye Oye (feat. Ash King)",
+    "msPlayed": 61741,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:38",
+    "artistName": "Maninder Buttar",
+    "trackName": "Ik Tera",
+    "msPlayed": 21455,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:38",
+    "artistName": "Lucky Ali",
+    "trackName": "Intezaar",
+    "msPlayed": 15998,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:39",
+    "artistName": "Masked Wolf",
+    "trackName": "It\u2019s You, Not Me (Sabotage)",
+    "msPlayed": 92160,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:40",
+    "artistName": "Five YearsFromNow",
+    "trackName": "Khwahish Ke Boonden",
+    "msPlayed": 20990,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:41",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Kudiyan Lahore Diyan",
+    "msPlayed": 63088,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:41",
+    "artistName": "The PropheC",
+    "trackName": "Kina Chir",
+    "msPlayed": 29884,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:42",
+    "artistName": "Prem Dhillon",
+    "trackName": "Lost Love",
+    "msPlayed": 19597,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:43",
+    "artistName": "Ritviz",
+    "trackName": "Liggi",
+    "msPlayed": 93971,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:45",
+    "artistName": "Deep Money",
+    "trackName": "Milan",
+    "msPlayed": 100472,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:46",
+    "artistName": "Imran Khan feat. Lucky",
+    "trackName": "Ni Nachleh",
+    "msPlayed": 73630,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:47",
+    "artistName": "D J Flow",
+    "trackName": "Police",
+    "msPlayed": 12654,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:47",
+    "artistName": "Umer Farooq",
+    "trackName": "Teri Ay",
+    "msPlayed": 26888,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:49",
+    "artistName": "Desi Boys",
+    "trackName": "Rabb Wangu",
+    "msPlayed": 12956,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:49",
+    "artistName": "Atif Aslam",
+    "trackName": "Pehli Nazar Mein",
+    "msPlayed": 2414,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:49",
+    "artistName": "Ritviz",
+    "trackName": "Pran",
+    "msPlayed": 124458,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:49",
+    "artistName": "Ritviz",
+    "trackName": "Raahi",
+    "msPlayed": 10100,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:49",
+    "artistName": "Atif Aslam",
+    "trackName": "Jeene Laga Hoon",
+    "msPlayed": 928,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:52",
+    "artistName": "Atif Aslam",
+    "trackName": "Pehli Nazar Mein",
+    "msPlayed": 152926,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:53",
+    "artistName": "G16",
+    "trackName": "Tu Hai Kaun",
+    "msPlayed": 61927,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:53",
+    "artistName": "Karan Aujla",
+    "trackName": "Gangsta",
+    "msPlayed": 32368,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 13:54",
+    "artistName": "Nikk",
+    "trackName": "Yaari",
+    "msPlayed": 22662,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:52",
+    "artistName": "Prem Dhillon",
+    "trackName": "Copyright",
+    "msPlayed": 14721,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:54",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:54",
+    "artistName": "AP Dhillon",
+    "trackName": "Majhail",
+    "msPlayed": 4315,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:55",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Wrangler",
+    "msPlayed": 20712,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:55",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 7453,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:55",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Rose Bud",
+    "msPlayed": 14930,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-24 14:55",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 1555,
+    "sessionumber": 19
+  },
+  {
+    "endTime": "2022-09-25 08:21",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 1160,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:23",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:24",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 76250,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:25",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 10240,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:25",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 9148,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:25",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 8289,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:25",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 5735,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:27",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:30",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 163557,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:32",
+    "artistName": "AP Dhillon",
+    "trackName": "Toxic",
+    "msPlayed": 113499,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 08:33",
+    "artistName": "Karan Aujla",
+    "trackName": "Gangsta",
+    "msPlayed": 96362,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:49",
+    "artistName": "Jordan Sandhu",
+    "trackName": "Teeje Week",
+    "msPlayed": 1509,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:49",
+    "artistName": "Jordan Sandhu",
+    "trackName": "Teeje Week",
+    "msPlayed": 557,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:49",
+    "artistName": "AP Dhillon",
+    "trackName": "Toxic",
+    "msPlayed": 4226,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:49",
+    "artistName": "Shooter Kahlon",
+    "trackName": "Game",
+    "msPlayed": 905,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:49",
+    "artistName": "Karan Aujla",
+    "trackName": "Gangsta",
+    "msPlayed": 905,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:49",
+    "artistName": "Karan Aujla",
+    "trackName": "Gangsta",
+    "msPlayed": 719,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:52",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:55",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Clash",
+    "msPlayed": 176385,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 09:59",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "East Side Flow",
+    "msPlayed": 224211,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:02",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 151313,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:14",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:15",
+    "artistName": "Kaifi Khalil",
+    "trackName": "Kana Yaari",
+    "msPlayed": 1880,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:15",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 27558,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:15",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 56981,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:16",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Jaat Da Muqabala",
+    "msPlayed": 1137,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:16",
+    "artistName": "AP Dhillon",
+    "trackName": "Droptop",
+    "msPlayed": 3459,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:20",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Panga",
+    "msPlayed": 258849,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:22",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 132780,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "AP Dhillon",
+    "trackName": "MAJHE AALE",
+    "msPlayed": 417,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Lover",
+    "msPlayed": 0,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Pritam",
+    "trackName": "Afghan Jalebi (Film Version)",
+    "msPlayed": 975,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Vishal Dadlani",
+    "trackName": "Aao Na",
+    "msPlayed": 1160,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Vishal Dadlani",
+    "trackName": "Aao Na",
+    "msPlayed": 185,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Sultana",
+    "trackName": "Patakha Guddi",
+    "msPlayed": 110175,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Mickey Singh",
+    "trackName": "All By Myself",
+    "msPlayed": 905,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Mickey Singh",
+    "trackName": "All By Myself",
+    "msPlayed": 650,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:24",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 13212,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:27",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Lover",
+    "msPlayed": 190000,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:30",
+    "artistName": "Pritam",
+    "trackName": "Afghan Jalebi (Film Version)",
+    "msPlayed": 128542,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:30",
+    "artistName": "AP Dhillon",
+    "trackName": "Insane",
+    "msPlayed": 743,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 10:30",
+    "artistName": "Tegi Pannu",
+    "trackName": "Schedule",
+    "msPlayed": 23591,
+    "sessionumber": 20
+  },
+  {
+    "endTime": "2022-09-25 12:47",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 12:49",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Legend",
+    "msPlayed": 165624,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 12:53",
+    "artistName": "Intense",
+    "trackName": "Sahiba",
+    "msPlayed": 238707,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 12:56",
+    "artistName": "Arjun Kanungo",
+    "trackName": "La La La (Reprise)",
+    "msPlayed": 179712,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:00",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 209230,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:04",
+    "artistName": "Maninder Buttar",
+    "trackName": "Ik Tera",
+    "msPlayed": 1091,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:04",
+    "artistName": "Lehmber Hussainpuri",
+    "trackName": "Sadi Gali",
+    "msPlayed": 232750,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:04",
+    "artistName": "QARAN",
+    "trackName": "Haaye Oye (feat. Ash King)",
+    "msPlayed": 1091,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:06",
+    "artistName": "QARAN",
+    "trackName": "Haaye Oye (feat. Ash King)",
+    "msPlayed": 9659,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:06",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 84265,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:10",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Legend",
+    "msPlayed": 278622,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:13",
+    "artistName": "Aparshakti Khurana",
+    "trackName": "Balle Ni Balle",
+    "msPlayed": 171428,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:15",
+    "artistName": "Travis Scott",
+    "trackName": "Goosebumps - Remix",
+    "msPlayed": 93109,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:18",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:19",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Bitch I'm Back",
+    "msPlayed": 7221,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:19",
+    "artistName": "Intense",
+    "trackName": "Sahiba",
+    "msPlayed": 97552,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:23",
+    "artistName": "AP Dhillon",
+    "trackName": "Insane",
+    "msPlayed": 206060,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:26",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Laembadgini",
+    "msPlayed": 156762,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-25 13:49",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Panga",
+    "msPlayed": 231642,
+    "sessionumber": 21
+  },
+  {
+    "endTime": "2022-09-26 01:27",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 01:28",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Panga",
+    "msPlayed": 7589,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 01:32",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Chosen",
+    "msPlayed": 264000,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 03:28",
+    "artistName": "Mickey Singh",
+    "trackName": "CROWD",
+    "msPlayed": 27468,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 03:29",
+    "artistName": "Epic Soundtrack Allstars",
+    "trackName": "I'm Shipping Up to Boston (From \"The Departed\")",
+    "msPlayed": 60209,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 03:31",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 03:34",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Kingpin",
+    "msPlayed": 123248,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 05:31",
+    "artistName": "NseeB",
+    "trackName": "Munde Desi",
+    "msPlayed": 29442,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 05:35",
+    "artistName": "Baani Sandhu",
+    "trackName": "Majhe Wale",
+    "msPlayed": 8475,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 05:35",
+    "artistName": "Taaj Kang",
+    "trackName": "Grandson",
+    "msPlayed": 193491,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 05:40",
+    "artistName": "AP Dhillon",
+    "trackName": "Most Wanted",
+    "msPlayed": 136951,
+    "sessionumber": 22
+  },
+  {
+    "endTime": "2022-09-26 10:31",
+    "artistName": "AP Dhillon",
+    "trackName": "Most Wanted",
+    "msPlayed": 1728,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:31",
+    "artistName": "The Weeknd",
+    "trackName": "Blinding Lights",
+    "msPlayed": 510,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:31",
+    "artistName": "Jass Manak",
+    "trackName": "Prada",
+    "msPlayed": 743,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:31",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 8080,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:31",
+    "artistName": "Pree Mayall",
+    "trackName": "Ve Nehalia",
+    "msPlayed": 1277,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:34",
+    "artistName": "The Weeknd",
+    "trackName": "Blinding Lights",
+    "msPlayed": 9367,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:34",
+    "artistName": "Jass Manak",
+    "trackName": "Prada",
+    "msPlayed": 182115,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 10:42",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Chosen",
+    "msPlayed": 92934,
+    "sessionumber": 23
+  },
+  {
+    "endTime": "2022-09-26 15:32",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 15:35",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 209142,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 15:38",
+    "artistName": "Maninder Buttar",
+    "trackName": "Ik Tera",
+    "msPlayed": 160768,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 15:40",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 15:43",
+    "artistName": "AP Dhillon",
+    "trackName": "Majhail",
+    "msPlayed": 175187,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 15:46",
+    "artistName": "Prabh Deep",
+    "trackName": "Classsikh",
+    "msPlayed": 191058,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 15:46",
+    "artistName": "Deep Money",
+    "trackName": "Milan",
+    "msPlayed": 16917,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 17:46",
+    "artistName": "Deep Money",
+    "trackName": "Milan",
+    "msPlayed": 417,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-26 17:49",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 190055,
+    "sessionumber": 24
+  },
+  {
+    "endTime": "2022-09-27 00:30",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 5433,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 00:33",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 00:34",
+    "artistName": "Dua Lipa",
+    "trackName": "Levitating (feat. DaBaby)",
+    "msPlayed": 75127,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 01:54",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 134629,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:26",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 1695,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Laembadgini",
+    "msPlayed": 147702,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "Arjun Kanungo",
+    "trackName": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+    "msPlayed": 2484,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "Amit Trivedi",
+    "trackName": "Nindaraan Diyaan",
+    "msPlayed": 1068,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "Emiway Bantai",
+    "trackName": "Ring Ring",
+    "msPlayed": 1184,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Kudiyan Lahore Diyan",
+    "msPlayed": 1137,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "Agam",
+    "trackName": "Rangapura Vihara",
+    "msPlayed": 0,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:28",
+    "artistName": "AP Dhillon",
+    "trackName": "WAR",
+    "msPlayed": 882,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:32",
+    "artistName": "Baani Sandhu",
+    "trackName": "Affair",
+    "msPlayed": 188337,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:33",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 92263,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:36",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 168851,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:36",
+    "artistName": "AP Dhillon",
+    "trackName": "Insane",
+    "msPlayed": 4379,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:37",
+    "artistName": "Amrit Maan",
+    "trackName": "Bamb Jatt",
+    "msPlayed": 6757,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 02:37",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Love Sick (feat. AR Paisley)",
+    "msPlayed": 46300,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 03:05",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Love Sick (feat. AR Paisley)",
+    "msPlayed": 26889,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:07",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Love Sick (feat. AR Paisley)",
+    "msPlayed": 205559,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:08",
+    "artistName": "Amrit Maan",
+    "trackName": "Bamb Jatt",
+    "msPlayed": 79615,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:09",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Panga",
+    "msPlayed": 62647,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:09",
+    "artistName": "Shae Gill",
+    "trackName": "Pasoori",
+    "msPlayed": 1439,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:09",
+    "artistName": "Jassie Gill",
+    "trackName": "Laden",
+    "msPlayed": 1114,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:12",
+    "artistName": "Aparshakti Khurana",
+    "trackName": "Balle Ni Balle",
+    "msPlayed": 171428,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:15",
+    "artistName": "Dua Lipa",
+    "trackName": "Levitating (feat. DaBaby)",
+    "msPlayed": 203064,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:16",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 1184,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:16",
+    "artistName": "Jass Manak",
+    "trackName": "No Competition",
+    "msPlayed": 1393,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:16",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Born to Shine",
+    "msPlayed": 69215,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:20",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 205040,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:20",
+    "artistName": "Jass Manak",
+    "trackName": "No Competition",
+    "msPlayed": 3137,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:20",
+    "artistName": "The Local Train",
+    "trackName": "Khudi",
+    "msPlayed": 1044,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:23",
+    "artistName": "Gur Sidhu",
+    "trackName": "Gabru",
+    "msPlayed": 171428,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:24",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "B-Town (feat. Sunny Malton)",
+    "msPlayed": 1160,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:24",
+    "artistName": "AP Dhillon",
+    "trackName": "Toxic",
+    "msPlayed": 97190,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:25",
+    "artistName": "Jordan Sandhu",
+    "trackName": "Teeje Week",
+    "msPlayed": 1021,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:25",
+    "artistName": "G16",
+    "trackName": "Tu Hai Kaun",
+    "msPlayed": 1625,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:27",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Famous",
+    "msPlayed": 812,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:27",
+    "artistName": "Jordan Sandhu",
+    "trackName": "Teeje Week",
+    "msPlayed": 1137,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:27",
+    "artistName": "G16",
+    "trackName": "Tu Hai Kaun",
+    "msPlayed": 141270,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:29",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Vele (From \"Student of the Year\")",
+    "msPlayed": 122485,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 04:30",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 53545,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:20",
+    "artistName": "Nawab",
+    "trackName": "Expert Jatt",
+    "msPlayed": 1741,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:20",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "East Side Flow",
+    "msPlayed": 2026,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:20",
+    "artistName": "AP Dhillon",
+    "trackName": "Ma Belle",
+    "msPlayed": 2645,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:20",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 2554,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:22",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "Neeraj Shridhar",
+    "trackName": "Aahun Aahun",
+    "msPlayed": 47991,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "Amit Trivedi",
+    "trackName": "Gal Mitthi Mitthi",
+    "msPlayed": 1253,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 1137,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Vele (From \"Student of the Year\")",
+    "msPlayed": 1207,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "The Weeknd",
+    "trackName": "Blinding Lights",
+    "msPlayed": 1091,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "Gupz Sehra",
+    "trackName": "Label Black",
+    "msPlayed": 1137,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:23",
+    "artistName": "Sultana",
+    "trackName": "Patakha Guddi",
+    "msPlayed": 1207,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:26",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Dance Like",
+    "msPlayed": 4574,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:26",
+    "artistName": "Shubh",
+    "trackName": "Elevated",
+    "msPlayed": 162098,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:26",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Devil",
+    "msPlayed": 1253,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:26",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 1509,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 05:26",
+    "artistName": "Jassie Gill",
+    "trackName": "Laden",
+    "msPlayed": 2507,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 06:23",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 109157,
+    "sessionumber": 25
+  },
+  {
+    "endTime": "2022-09-27 11:27",
+    "artistName": "AP Dhillon",
+    "trackName": "Toxic",
+    "msPlayed": 975,
+    "sessionumber": 26
+  },
+  {
+    "endTime": "2022-09-27 11:27",
+    "artistName": "QARAN",
+    "trackName": "Haaye Oye (feat. Ash King)",
+    "msPlayed": 1184,
+    "sessionumber": 26
+  },
+  {
+    "endTime": "2022-09-27 11:27",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 3529,
+    "sessionumber": 26
+  },
+  {
+    "endTime": "2022-09-27 11:27",
+    "artistName": "Prabh Deep",
+    "trackName": "Classsikh",
+    "msPlayed": 1416,
+    "sessionumber": 26
+  },
+  {
+    "endTime": "2022-09-27 11:30",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 26
+  },
+  {
+    "endTime": "2022-09-27 11:44",
+    "artistName": "AP Dhillon",
+    "trackName": "MAJHE AALE",
+    "msPlayed": 116082,
+    "sessionumber": 26
+  },
+  {
+    "endTime": "2022-09-27 15:30",
+    "artistName": "AP Dhillon",
+    "trackName": "MAJHE AALE",
+    "msPlayed": 54437,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 15:46",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Satisfy",
+    "msPlayed": 162052,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 15:49",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 130000,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 15:52",
+    "artistName": "Ritviz",
+    "trackName": "Raahi",
+    "msPlayed": 229615,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 15:55",
+    "artistName": "AP Dhillon",
+    "trackName": "Ma Belle",
+    "msPlayed": 160824,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 15:56",
+    "artistName": "AP Dhillon",
+    "trackName": "Takeover",
+    "msPlayed": 55307,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 15:59",
+    "artistName": "Arijit Singh",
+    "trackName": "Mast Magan",
+    "msPlayed": 147260,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:02",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "US (feat. Raja Kumari)",
+    "msPlayed": 230068,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:06",
+    "artistName": "Prateek Kuhad",
+    "trackName": "Kasoor",
+    "msPlayed": 197549,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:08",
+    "artistName": "Tanishk Bagchi",
+    "trackName": "Makhna",
+    "msPlayed": 1277,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:08",
+    "artistName": "Inder Chahal",
+    "trackName": "Gal Karke",
+    "msPlayed": 141640,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:14",
+    "artistName": "Satinder Sartaaj",
+    "trackName": "Ikko - Mikke",
+    "msPlayed": 382479,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:14",
+    "artistName": "Atif Aslam",
+    "trackName": "Tera Hone Laga Hoon",
+    "msPlayed": 3204,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:15",
+    "artistName": "Stebin Ben",
+    "trackName": "Thoda Thoda Pyaar",
+    "msPlayed": 1323,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:15",
+    "artistName": "Jasleen Royal",
+    "trackName": "Ranjha (From \"Shershaah\")",
+    "msPlayed": 2925,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:15",
+    "artistName": "The Local Train",
+    "trackName": "Dil Mere",
+    "msPlayed": 789,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:18",
+    "artistName": "Umer Farooq",
+    "trackName": "Teri Ay",
+    "msPlayed": 232800,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:23",
+    "artistName": "Pritam",
+    "trackName": "Ye Tune Kya Kiya",
+    "msPlayed": 253018,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:23",
+    "artistName": "KK",
+    "trackName": "Ajab Si",
+    "msPlayed": 1787,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:23",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Nashe Si Chadh Gayi",
+    "msPlayed": 975,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:26",
+    "artistName": "Jass Manak",
+    "trackName": "Suit Punjabi",
+    "msPlayed": 201745,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:30",
+    "artistName": "Rashid Ali",
+    "trackName": "Kabhi Kabhi Aditi",
+    "msPlayed": 218836,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:31",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Sadka",
+    "msPlayed": 20805,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:31",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Sadka",
+    "msPlayed": 1021,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:31",
+    "artistName": "Roop Kumar Rathod",
+    "trackName": "Tujh Mein Rab Dikhta Hai",
+    "msPlayed": 952,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:31",
+    "artistName": "Priyanka Chopra",
+    "trackName": "Dil Dhadakne Do",
+    "msPlayed": 1207,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:31",
+    "artistName": "Akhil",
+    "trackName": "Khaab",
+    "msPlayed": 41145,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:34",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Sadka",
+    "msPlayed": 197857,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:34",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 2670,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:35",
+    "artistName": "The Landers",
+    "trackName": "Swad Kutde",
+    "msPlayed": 47066,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:35",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 1253,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:35",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Unforgettable",
+    "msPlayed": 1346,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:37",
+    "artistName": "Varinder Brar",
+    "trackName": "Villagers",
+    "msPlayed": 103816,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:38",
+    "artistName": "Arjun",
+    "trackName": "Punjabi Mashup",
+    "msPlayed": 41377,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:40",
+    "artistName": "Navaan Sandhu",
+    "trackName": "Hanji Hanji",
+    "msPlayed": 111270,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:41",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Defcon 1",
+    "msPlayed": 109017,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:41",
+    "artistName": "Varinder Brar",
+    "trackName": "Soh Lagge",
+    "msPlayed": 0,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:41",
+    "artistName": "Varinder Brar",
+    "trackName": "Shaan",
+    "msPlayed": 2043,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:41",
+    "artistName": "Varinder Brar",
+    "trackName": "Heer Saleti",
+    "msPlayed": 417,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Shankar-Ehsaan-Loy",
+    "trackName": "Kal Ho Naa Ho",
+    "msPlayed": 0,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Amit Trivedi",
+    "trackName": "Manja",
+    "msPlayed": 0,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Tanishk Bagchi",
+    "trackName": "Makhna",
+    "msPlayed": 2484,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Darshan Raval",
+    "trackName": "Tera Zikr",
+    "msPlayed": 905,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Amit Trivedi",
+    "trackName": "Namo Namo",
+    "msPlayed": 1207,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Varinder Brar",
+    "trackName": "Heer Saleti",
+    "msPlayed": 46,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Rashid Ali",
+    "trackName": "Kabhi Kabhi Aditi",
+    "msPlayed": 1137,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Dikshant",
+    "trackName": "Aankhon Se Batana",
+    "msPlayed": 1346,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Akhil",
+    "trackName": "Khaab",
+    "msPlayed": 1439,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:42",
+    "artistName": "Rahat Fateh Ali Khan",
+    "trackName": "Ajj Din Chadheya",
+    "msPlayed": 1462,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-27 16:44",
+    "artistName": "Dikshant",
+    "trackName": "Aankhon Se Batana",
+    "msPlayed": 153228,
+    "sessionumber": 27
+  },
+  {
+    "endTime": "2022-09-28 04:25",
+    "artistName": "Gurinder Gill",
+    "trackName": "Faraar",
+    "msPlayed": 650,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:28",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:29",
+    "artistName": "Dua Lipa",
+    "trackName": "Levitating (feat. DaBaby)",
+    "msPlayed": 15034,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:32",
+    "artistName": "Varinder Brar",
+    "trackName": "12 Bande",
+    "msPlayed": 153391,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:44",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "East Side Flow",
+    "msPlayed": 81153,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:47",
+    "artistName": "Maninder Buttar",
+    "trackName": "Ik Tera",
+    "msPlayed": 160768,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:51",
+    "artistName": "Darshan Raval",
+    "trackName": "Chogada (From \"Loveyatri\")",
+    "msPlayed": 249741,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:54",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Dance Like",
+    "msPlayed": 171600,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 04:57",
+    "artistName": "Shubh",
+    "trackName": "We Rollin",
+    "msPlayed": 199205,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:00",
+    "artistName": "Arjun Kanungo",
+    "trackName": "La La La (Reprise)",
+    "msPlayed": 146666,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:06",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Raat Di Gedi",
+    "msPlayed": 219575,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:09",
+    "artistName": "Garry Sandhu",
+    "trackName": "Yeh Baby",
+    "msPlayed": 185454,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:13",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 209230,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:15",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 132780,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:22",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 441,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:22",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 199016,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:22",
+    "artistName": "Garry Sandhu",
+    "trackName": "Yeh Baby",
+    "msPlayed": 650,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:22",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 859,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:25",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Raat Di Gedi",
+    "msPlayed": 174614,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:27",
+    "artistName": "Garry Sandhu",
+    "trackName": "Yeh Baby",
+    "msPlayed": 8962,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Harrdy Sandhu",
+    "trackName": "Dance Like",
+    "msPlayed": 557,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 162,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 510,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 743,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 603,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Garry Sandhu",
+    "trackName": "Yeh Baby",
+    "msPlayed": 162,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Raat Di Gedi",
+    "msPlayed": 139,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "The Last Ride",
+    "msPlayed": 557,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 162,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 191889,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Arjun Kanungo",
+    "trackName": "La La La (Reprise)",
+    "msPlayed": 162,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:30",
+    "artistName": "Shubh",
+    "trackName": "We Rollin",
+    "msPlayed": 301,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:33",
+    "artistName": "Shubh",
+    "trackName": "We Rollin",
+    "msPlayed": 199205,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Masked Wolf",
+    "trackName": "Astronaut In The Ocean",
+    "msPlayed": 208,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Grewal",
+    "trackName": "Distance Love",
+    "msPlayed": 162,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Garry Sandhu",
+    "trackName": "Yeh Baby",
+    "msPlayed": 208,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Raat Di Gedi",
+    "msPlayed": 928,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "The Last Ride",
+    "msPlayed": 348,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "These Days (feat. Bohemia)",
+    "msPlayed": 208,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:34",
+    "artistName": "Arjun Kanungo",
+    "trackName": "La La La (Reprise)",
+    "msPlayed": 17191,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:35",
+    "artistName": "Varinder Brar",
+    "trackName": "Takkar",
+    "msPlayed": 88839,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:35",
+    "artistName": "Sidhu",
+    "trackName": "Aaj Kal",
+    "msPlayed": 0,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:35",
+    "artistName": "AP Dhillon",
+    "trackName": "Toxic",
+    "msPlayed": 766,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:35",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 1509,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:38",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Specific",
+    "msPlayed": 170602,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:40",
+    "artistName": "Sidhu",
+    "trackName": "Aaj Kal",
+    "msPlayed": 151591,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:43",
+    "artistName": "Epic Soundtrack Allstars",
+    "trackName": "I'm Shipping Up to Boston (From \"The Departed\")",
+    "msPlayed": 154000,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:46",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Peaches (feat. Anne-Marie)",
+    "msPlayed": 189882,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:49",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Famous",
+    "msPlayed": 133267,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:52",
+    "artistName": "Jstar",
+    "trackName": "Gabhru",
+    "msPlayed": 200899,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:52",
+    "artistName": "Vishal-Shekhar",
+    "trackName": "Vele (From \"Student of the Year\")",
+    "msPlayed": 928,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 05:57",
+    "artistName": "Amit Trivedi",
+    "trackName": "Nindaraan Diyaan",
+    "msPlayed": 328232,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:01",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Love Sick (feat. AR Paisley)",
+    "msPlayed": 232258,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:05",
+    "artistName": "Anuv Jain",
+    "trackName": "Maula",
+    "msPlayed": 237882,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:10",
+    "artistName": "The Local Train",
+    "trackName": "Khudi",
+    "msPlayed": 297642,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:13",
+    "artistName": "Shubh",
+    "trackName": "No Love",
+    "msPlayed": 170387,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:17",
+    "artistName": "Kaifi Khalil",
+    "trackName": "Kana Yaari",
+    "msPlayed": 226802,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:18",
+    "artistName": "QARAN",
+    "trackName": "Haaye Oye (feat. Ash King)",
+    "msPlayed": 65243,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:20",
+    "artistName": "Arjun Kanungo",
+    "trackName": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+    "msPlayed": 1393,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:20",
+    "artistName": "Gupz Sehra",
+    "trackName": "Label Black",
+    "msPlayed": 111873,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:20",
+    "artistName": "Agam",
+    "trackName": "Rangapura Vihara",
+    "msPlayed": 812,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:22",
+    "artistName": "AP Dhillon",
+    "trackName": "Droptop",
+    "msPlayed": 141176,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 06:50",
+    "artistName": "King",
+    "trackName": "Tu Aake Dekhle",
+    "msPlayed": 103596,
+    "sessionumber": 28
+  },
+  {
+    "endTime": "2022-09-28 10:24",
+    "artistName": "Travis Scott",
+    "trackName": "Goosebumps - Remix",
+    "msPlayed": 1811,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:24",
+    "artistName": "AP Dhillon",
+    "trackName": "Insane",
+    "msPlayed": 1137,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:24",
+    "artistName": "King",
+    "trackName": "Tu Aake Dekhle",
+    "msPlayed": 5178,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:27",
+    "artistName": "Tarsem Jassar",
+    "trackName": "Swag",
+    "msPlayed": 164211,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:29",
+    "artistName": "AP Dhillon",
+    "trackName": "Summer High",
+    "msPlayed": 1114,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:29",
+    "artistName": "Jass Manak",
+    "trackName": "No Competition",
+    "msPlayed": 164129,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:29",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "Jaat Da Muqabala",
+    "msPlayed": 789,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:29",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "So High",
+    "msPlayed": 882,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:29",
+    "artistName": "Uma Mohan",
+    "trackName": "Shiva Tandava Stotram",
+    "msPlayed": 1393,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:30",
+    "artistName": "Sidhu Moose Wala",
+    "trackName": "B-Town (feat. Sunny Malton)",
+    "msPlayed": 1137,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:30",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 1578,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:30",
+    "artistName": "Prabh Deep",
+    "trackName": "Classsikh",
+    "msPlayed": 696,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:32",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 100589,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 10:59",
+    "artistName": "Diljit Dosanjh",
+    "trackName": "Chauffeur",
+    "msPlayed": 3366,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 11:00",
+    "artistName": "AP Dhillon",
+    "trackName": "Arrogant",
+    "msPlayed": 102315,
+    "sessionumber": 29
+  },
+  {
+    "endTime": "2022-09-28 11:05",
+    "artistName": "Bohemia",
+    "trackName": "Same Beef",
+    "msPlayed": 293455,
+    "sessionumber": 29
+  }
+]

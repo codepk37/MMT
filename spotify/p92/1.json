@@ -1,0 +1,1766 @@
+[
+  {
+    "endTime" : "2021-04-01 15:01",
+    "artistName" : "Skeeter Davis",
+    "trackName" : "The End of the World",
+    "msPlayed" : 5340
+  },
+  {
+    "endTime" : "2021-10-13 02:47",
+    "artistName" : "Darshan Raval",
+    "trackName" : "Chogada (From \"Loveyatri\")",
+    "msPlayed" : 8430
+  },
+  {
+    "endTime" : "2021-10-13 03:02",
+    "artistName" : "Darshan Raval",
+    "trackName" : "Chogada (From \"Loveyatri\")",
+    "msPlayed" : 1660
+  },
+  {
+    "endTime" : "2021-10-13 11:21",
+    "artistName" : "Darshan Raval",
+    "trackName" : "Chogada (From \"Loveyatri\")",
+    "msPlayed" : 2157
+  },
+  {
+    "endTime" : "2021-10-13 11:22",
+    "artistName" : "Kirtidan Gadhvi",
+    "trackName" : "Gori Radha Ne Kado Kaan",
+    "msPlayed" : 56649
+  },
+  {
+    "endTime" : "2021-10-13 11:23",
+    "artistName" : "Aishwarya Majmudar",
+    "trackName" : "Kaun Halave Limdi",
+    "msPlayed" : 29841
+  },
+  {
+    "endTime" : "2021-10-13 11:24",
+    "artistName" : "Aishwarya Majmudar",
+    "trackName" : "Kesariyo",
+    "msPlayed" : 80675
+  },
+  {
+    "endTime" : "2021-10-13 11:25",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Moti Veraana (From Songs of Faith)",
+    "msPlayed" : 35320
+  },
+  {
+    "endTime" : "2021-10-13 11:27",
+    "artistName" : "K. S. Chithra",
+    "trackName" : "Bani Bani",
+    "msPlayed" : 7003
+  },
+  {
+    "endTime" : "2021-10-13 11:27",
+    "artistName" : "Kishore Manraja",
+    "trackName" : "Tara Vina Shyam Mane",
+    "msPlayed" : 54822
+  },
+  {
+    "endTime" : "2021-10-13 11:30",
+    "artistName" : "Shubha Mudgal",
+    "trackName" : "Dholna",
+    "msPlayed" : 140896
+  },
+  {
+    "endTime" : "2021-10-13 11:33",
+    "artistName" : "Falguni Pathak",
+    "trackName" : "Kumkum Na Pagla",
+    "msPlayed" : 8815
+  },
+  {
+    "endTime" : "2021-10-13 11:33",
+    "artistName" : "Falguni Pathak",
+    "trackName" : "Indhana Winva",
+    "msPlayed" : 213867
+  },
+  {
+    "endTime" : "2021-10-13 11:34",
+    "artistName" : "Falguni Pathak",
+    "trackName" : "Maadi Tara Mandiriye",
+    "msPlayed" : 15292
+  },
+  {
+    "endTime" : "2021-10-13 11:34",
+    "artistName" : "Falguni Pathak",
+    "trackName" : "Chudi",
+    "msPlayed" : 51111
+  },
+  {
+    "endTime" : "2021-10-13 11:35",
+    "artistName" : "Falguni Pathak",
+    "trackName" : "Umbre Ubhi",
+    "msPlayed" : 4683
+  },
+  {
+    "endTime" : "2021-10-13 11:35",
+    "artistName" : "Nayan Rathod",
+    "trackName" : "Kesariyo Rang",
+    "msPlayed" : 24621
+  },
+  {
+    "endTime" : "2021-10-13 11:38",
+    "artistName" : "Sachin-Jigar",
+    "trackName" : "Radha NE Shyam Mali Jashe",
+    "msPlayed" : 122340
+  },
+  {
+    "endTime" : "2021-11-22 08:37",
+    "artistName" : "Traditional",
+    "trackName" : "Scarborough Fair (Arr. Parkin)",
+    "msPlayed" : 7022
+  },
+  {
+    "endTime" : "2021-11-22 08:37",
+    "artistName" : "Celtic Woman",
+    "trackName" : "Scarborough Fair",
+    "msPlayed" : 24626
+  },
+  {
+    "endTime" : "2021-11-22 08:38",
+    "artistName" : "Liad Abraham",
+    "trackName" : "Scarborough Fair (Cello & Guitar)",
+    "msPlayed" : 57079
+  },
+  {
+    "endTime" : "2021-11-22 08:39",
+    "artistName" : "MALINDA",
+    "trackName" : "Scarborough Fair",
+    "msPlayed" : 10815
+  },
+  {
+    "endTime" : "2021-11-22 08:39",
+    "artistName" : "Sarah Brightman",
+    "trackName" : "Scarborough Fair",
+    "msPlayed" : 10201
+  },
+  {
+    "endTime" : "2021-11-22 08:43",
+    "artistName" : "Nox Arcana",
+    "trackName" : "Scarborough Fair",
+    "msPlayed" : 69568
+  },
+  {
+    "endTime" : "2021-11-22 08:45",
+    "artistName" : "Ulli Boegershausen",
+    "trackName" : "Ice Crystals",
+    "msPlayed" : 7200
+  },
+  {
+    "endTime" : "2021-11-22 08:45",
+    "artistName" : "Ulli Boegershausen",
+    "trackName" : "Scarborough Fair - guitar duet version",
+    "msPlayed" : 133834
+  },
+  {
+    "endTime" : "2021-11-22 08:58",
+    "artistName" : "The O'Neill Brothers Group",
+    "trackName" : "Scarborough Fair (Instrumental Version)",
+    "msPlayed" : 88909
+  },
+  {
+    "endTime" : "2022-02-18 17:15",
+    "artistName" : "Vishal Dadlani",
+    "trackName" : "Jee Le Zaraa",
+    "msPlayed" : 12451
+  },
+  {
+    "endTime" : "2022-02-22 11:06",
+    "artistName" : "Black Eyed Peas",
+    "trackName" : "Bebot",
+    "msPlayed" : 130299
+  },
+  {
+    "endTime" : "2022-02-23 14:17",
+    "artistName" : "Rahat Fateh Ali Khan",
+    "trackName" : "Jiya Dhadak Dhadak Jaye",
+    "msPlayed" : 51887
+  },
+  {
+    "endTime" : "2022-02-23 18:14",
+    "artistName" : "Grouplove",
+    "trackName" : "Let Me In - From The Fault in Our Stars Soundtrack",
+    "msPlayed" : 63005
+  },
+  {
+    "endTime" : "2022-02-24 10:58",
+    "artistName" : "Vishal Bhardwaj",
+    "trackName" : "Chhod Aaye Hum",
+    "msPlayed" : 312986
+  },
+  {
+    "endTime" : "2022-02-24 11:02",
+    "artistName" : "Mahendra Kapoor",
+    "trackName" : "Chaukiyan Bharange Dar Tere",
+    "msPlayed" : 32046
+  },
+  {
+    "endTime" : "2022-02-24 11:08",
+    "artistName" : "Bombay Bandook",
+    "trackName" : "Tilak",
+    "msPlayed" : 359290
+  },
+  {
+    "endTime" : "2022-02-24 11:13",
+    "artistName" : "Bombay Bandook",
+    "trackName" : "Azad",
+    "msPlayed" : 280849
+  },
+  {
+    "endTime" : "2022-02-24 11:16",
+    "artistName" : "Bombay Bandook",
+    "trackName" : "Yaman",
+    "msPlayed" : 94410
+  },
+  {
+    "endTime" : "2022-02-24 11:19",
+    "artistName" : "Anoushka Shankar",
+    "trackName" : "Traces Of You",
+    "msPlayed" : 225746
+  },
+  {
+    "endTime" : "2022-02-24 14:36",
+    "artistName" : "Shubha Mudgal",
+    "trackName" : "Dholna - From \"Pyar Ke Geet\"",
+    "msPlayed" : 191352
+  },
+  {
+    "endTime" : "2022-02-27 12:04",
+    "artistName" : "Bombay Bandook",
+    "trackName" : "Tilak",
+    "msPlayed" : 29166
+  },
+  {
+    "endTime" : "2022-03-10 12:43",
+    "artistName" : "Swastik The Band",
+    "trackName" : "Jogi",
+    "msPlayed" : 376854
+  },
+  {
+    "endTime" : "2022-03-21 03:46",
+    "artistName" : "Shankar Mahadevan",
+    "trackName" : "Koi Kahe Kehta Rahe",
+    "msPlayed" : 89799
+  },
+  {
+    "endTime" : "2022-03-21 03:48",
+    "artistName" : "Suresh Wadkar",
+    "trackName" : "Raat Ke Dhai Baje",
+    "msPlayed" : 133368
+  },
+  {
+    "endTime" : "2022-03-21 03:53",
+    "artistName" : "Sachet Tandon",
+    "trackName" : "Humraah (From \"Malang - Unleash The Madness\")",
+    "msPlayed" : 299821
+  },
+  {
+    "endTime" : "2022-03-22 03:33",
+    "artistName" : "Logic",
+    "trackName" : "1-800-273-8255",
+    "msPlayed" : 249989
+  },
+  {
+    "endTime" : "2022-03-22 03:36",
+    "artistName" : "Billie Eilish",
+    "trackName" : "lovely (with Khalid)",
+    "msPlayed" : 200017
+  },
+  {
+    "endTime" : "2022-03-22 03:38",
+    "artistName" : "XXXTENTACION",
+    "trackName" : "Jocelyn Flores",
+    "msPlayed" : 118892
+  },
+  {
+    "endTime" : "2022-03-22 03:41",
+    "artistName" : "Francko",
+    "trackName" : "Send Me Your Location",
+    "msPlayed" : 159399
+  },
+  {
+    "endTime" : "2022-03-22 03:42",
+    "artistName" : "Young Culture",
+    "trackName" : "Laylo",
+    "msPlayed" : 35408
+  },
+  {
+    "endTime" : "2022-03-22 03:45",
+    "artistName" : "yunè pinku",
+    "trackName" : "Laylo",
+    "msPlayed" : 184632
+  },
+  {
+    "endTime" : "2022-03-22 03:46",
+    "artistName" : "Miso Extra",
+    "trackName" : "1013",
+    "msPlayed" : 60488
+  },
+  {
+    "endTime" : "2022-03-22 03:50",
+    "artistName" : "Logic1000",
+    "trackName" : "What You Like",
+    "msPlayed" : 193687
+  },
+  {
+    "endTime" : "2022-03-22 03:51",
+    "artistName" : "FYI Chris",
+    "trackName" : "Morley's Preference",
+    "msPlayed" : 81131
+  },
+  {
+    "endTime" : "2022-03-23 16:58",
+    "artistName" : "Vishal-Shekhar",
+    "trackName" : "Ishq Bulaava",
+    "msPlayed" : 303640
+  },
+  {
+    "endTime" : "2022-03-23 17:03",
+    "artistName" : "Monty Sharma",
+    "trackName" : "Yoon Shabnami",
+    "msPlayed" : 315360
+  },
+  {
+    "endTime" : "2022-03-23 17:04",
+    "artistName" : "Vishal-Shekhar",
+    "trackName" : "Nashe Si Chadh Gayi",
+    "msPlayed" : 3862
+  },
+  {
+    "endTime" : "2022-03-23 17:07",
+    "artistName" : "Monty Sharma",
+    "trackName" : "Saawariya",
+    "msPlayed" : 165773
+  },
+  {
+    "endTime" : "2022-03-23 17:07",
+    "artistName" : "Monty Sharma",
+    "trackName" : "Yoon Shabnami",
+    "msPlayed" : 3536
+  },
+  {
+    "endTime" : "2022-03-23 17:10",
+    "artistName" : "Dhruv Ghanekar",
+    "trackName" : "Mitho Laage - The Dewarists, Season 5",
+    "msPlayed" : 175613
+  },
+  {
+    "endTime" : "2022-03-23 17:13",
+    "artistName" : "Kanika",
+    "trackName" : "Playing It Safe (feat. Emawk)",
+    "msPlayed" : 10279
+  },
+  {
+    "endTime" : "2022-03-23 17:13",
+    "artistName" : "Shivansh Jindal",
+    "trackName" : "Chidiya Da Chamba - Redux",
+    "msPlayed" : 22962
+  },
+  {
+    "endTime" : "2022-03-23 17:13",
+    "artistName" : "Kanika",
+    "trackName" : "Runak Jhunak",
+    "msPlayed" : 176447
+  },
+  {
+    "endTime" : "2022-03-23 17:16",
+    "artistName" : "Lost Stories",
+    "trackName" : "Mehndi Te Vavi",
+    "msPlayed" : 149433
+  },
+  {
+    "endTime" : "2022-03-23 17:19",
+    "artistName" : "KS Abhishek",
+    "trackName" : "Deejal Gaadi",
+    "msPlayed" : 130434
+  },
+  {
+    "endTime" : "2022-03-23 17:19",
+    "artistName" : "Akanksha Bhandari",
+    "trackName" : "Ranjhana",
+    "msPlayed" : 25296
+  },
+  {
+    "endTime" : "2022-03-23 17:21",
+    "artistName" : "Salim–Sulaiman",
+    "trackName" : "Chidiya Da Chamba",
+    "msPlayed" : 123644
+  },
+  {
+    "endTime" : "2022-03-23 17:24",
+    "artistName" : "Harkat",
+    "trackName" : "Kattey",
+    "msPlayed" : 173478
+  },
+  {
+    "endTime" : "2022-03-26 18:18",
+    "artistName" : "Imagine Dragons",
+    "trackName" : "It's Time",
+    "msPlayed" : 18680
+  },
+  {
+    "endTime" : "2022-03-27 06:23",
+    "artistName" : "Abdullah Siddiqui",
+    "trackName" : "GO",
+    "msPlayed" : 20703
+  },
+  {
+    "endTime" : "2022-03-27 06:48",
+    "artistName" : "Shae Gill",
+    "trackName" : "Pasoori",
+    "msPlayed" : 224146
+  },
+  {
+    "endTime" : "2022-04-09 07:18",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Lagan Laagi Re",
+    "msPlayed" : 1973
+  },
+  {
+    "endTime" : "2022-04-09 07:19",
+    "artistName" : "Sukhwinder Singh",
+    "trackName" : "Lagan Lagi",
+    "msPlayed" : 64407
+  },
+  {
+    "endTime" : "2022-04-09 07:26",
+    "artistName" : "Udit Narayan",
+    "trackName" : "Tere Naam",
+    "msPlayed" : 381255
+  },
+  {
+    "endTime" : "2022-04-09 07:29",
+    "artistName" : "Samahita Narang",
+    "trackName" : "Matwari",
+    "msPlayed" : 200000
+  },
+  {
+    "endTime" : "2022-04-09 08:38",
+    "artistName" : "Samahita Narang",
+    "trackName" : "Yeh Fasana",
+    "msPlayed" : 134216
+  },
+  {
+    "endTime" : "2022-06-08 13:07",
+    "artistName" : "Kool & The Gang",
+    "trackName" : "Fresh",
+    "msPlayed" : 7450
+  },
+  {
+    "endTime" : "2022-06-08 13:10",
+    "artistName" : "Sweet",
+    "trackName" : "Fox on the Run - Single Version",
+    "msPlayed" : 200800
+  },
+  {
+    "endTime" : "2022-06-08 13:11",
+    "artistName" : "Monty Sharma",
+    "trackName" : "Yoon Shabnami",
+    "msPlayed" : 65820
+  },
+  {
+    "endTime" : "2022-06-08 13:14",
+    "artistName" : "Skeeter Davis",
+    "trackName" : "The End of the World",
+    "msPlayed" : 157573
+  },
+  {
+    "endTime" : "2022-06-08 13:16",
+    "artistName" : "Perry Como",
+    "trackName" : "Hot Diggity (Dog Ziggity Boom)",
+    "msPlayed" : 141946
+  },
+  {
+    "endTime" : "2022-06-08 13:20",
+    "artistName" : "Easy Wanderlings",
+    "trackName" : "Makin' My Move",
+    "msPlayed" : 259393
+  },
+  {
+    "endTime" : "2022-06-08 13:23",
+    "artistName" : "The Who",
+    "trackName" : "Happy Jack",
+    "msPlayed" : 132800
+  },
+  {
+    "endTime" : "2022-06-08 13:26",
+    "artistName" : "Superorganism",
+    "trackName" : "Something For Your M.I.N.D.",
+    "msPlayed" : 165391
+  },
+  {
+    "endTime" : "2022-06-08 13:30",
+    "artistName" : "Kool & The Gang",
+    "trackName" : "Fresh",
+    "msPlayed" : 266560
+  },
+  {
+    "endTime" : "2022-06-08 13:36",
+    "artistName" : "Nox Arcana",
+    "trackName" : "Scarborough Fair",
+    "msPlayed" : 347720
+  },
+  {
+    "endTime" : "2022-06-08 13:40",
+    "artistName" : "The Budos Band",
+    "trackName" : "Up From the South",
+    "msPlayed" : 206693
+  },
+  {
+    "endTime" : "2022-06-08 13:44",
+    "artistName" : "Beyond the Seasons",
+    "trackName" : "April Sun",
+    "msPlayed" : 223031
+  },
+  {
+    "endTime" : "2022-06-08 13:48",
+    "artistName" : "The Rolling Stones",
+    "trackName" : "She's A Rainbow - Full Version / With Intro",
+    "msPlayed" : 251640
+  },
+  {
+    "endTime" : "2022-06-08 13:52",
+    "artistName" : "Kodaline",
+    "trackName" : "Saving Grace",
+    "msPlayed" : 230918
+  },
+  {
+    "endTime" : "2022-06-08 14:48",
+    "artistName" : "Sweet",
+    "trackName" : "Fox on the Run - Single Version",
+    "msPlayed" : 4711
+  },
+  {
+    "endTime" : "2022-06-14 06:41",
+    "artistName" : "Penn Masala",
+    "trackName" : "Lakshya",
+    "msPlayed" : 218524
+  },
+  {
+    "endTime" : "2022-06-14 06:52",
+    "artistName" : "Penn Masala",
+    "trackName" : "Blinding Lights / Bol Na Halke Halke",
+    "msPlayed" : 23252
+  },
+  {
+    "endTime" : "2022-06-14 10:30",
+    "artistName" : "Penn Masala",
+    "trackName" : "Late Night Drive - Intro",
+    "msPlayed" : 40259
+  },
+  {
+    "endTime" : "2022-06-14 10:35",
+    "artistName" : "Penn Masala",
+    "trackName" : "My Future / Yeh Dooriyan / Kalank",
+    "msPlayed" : 283384
+  },
+  {
+    "endTime" : "2022-06-14 10:36",
+    "artistName" : "Penn Masala",
+    "trackName" : "Hazy",
+    "msPlayed" : 89587
+  },
+  {
+    "endTime" : "2022-06-14 10:41",
+    "artistName" : "Penn Masala",
+    "trackName" : "Teri Mitti",
+    "msPlayed" : 3098
+  },
+  {
+    "endTime" : "2022-06-14 10:41",
+    "artistName" : "Penn Masala",
+    "trackName" : "Anyone / Hawayein",
+    "msPlayed" : 241303
+  },
+  {
+    "endTime" : "2022-06-14 10:45",
+    "artistName" : "Keethan",
+    "trackName" : "Seher",
+    "msPlayed" : 208800
+  },
+  {
+    "endTime" : "2022-06-14 10:54",
+    "artistName" : "Sniti Mishra",
+    "trackName" : "Baju Band",
+    "msPlayed" : 219353
+  },
+  {
+    "endTime" : "2022-06-17 08:38",
+    "artistName" : "Arif Lohar",
+    "trackName" : "Par Channah De",
+    "msPlayed" : 6461
+  },
+  {
+    "endTime" : "2022-06-17 17:56",
+    "artistName" : "Shilpa Rao",
+    "trackName" : "Par Chanaa De (Coke Studio Season 9)",
+    "msPlayed" : 33696
+  },
+  {
+    "endTime" : "2022-06-18 07:25",
+    "artistName" : "Shilpa Rao",
+    "trackName" : "Par Chanaa De (Coke Studio Season 9)",
+    "msPlayed" : 1413
+  },
+  {
+    "endTime" : "2022-06-21 16:20",
+    "artistName" : "Karthik",
+    "trackName" : "Behka",
+    "msPlayed" : 24230
+  },
+  {
+    "endTime" : "2022-06-21 16:24",
+    "artistName" : "Suresh Wadkar",
+    "trackName" : "Raat Ke Dhai Baje",
+    "msPlayed" : 269601
+  },
+  {
+    "endTime" : "2022-06-21 16:31",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Khalbali",
+    "msPlayed" : 379226
+  },
+  {
+    "endTime" : "2022-06-21 16:37",
+    "artistName" : "Asha Bhosle",
+    "trackName" : "Hungama Ho Gaya",
+    "msPlayed" : 320773
+  },
+  {
+    "endTime" : "2022-06-21 16:40",
+    "artistName" : "Pritam",
+    "trackName" : "Ilahi",
+    "msPlayed" : 228982
+  },
+  {
+    "endTime" : "2022-06-21 16:47",
+    "artistName" : "Abdullah Siddiqui",
+    "trackName" : "GO",
+    "msPlayed" : 348230
+  },
+  {
+    "endTime" : "2022-06-21 16:53",
+    "artistName" : "Shankar-Ehsaan-Loy",
+    "trackName" : "Main Aisa Kyon Hoon",
+    "msPlayed" : 274266
+  },
+  {
+    "endTime" : "2022-06-21 16:57",
+    "artistName" : "Sanam",
+    "trackName" : "Roop Tera Mastana",
+    "msPlayed" : 179285
+  },
+  {
+    "endTime" : "2022-06-21 17:01",
+    "artistName" : "KK",
+    "trackName" : "Kya Mujhe Pyar Hai",
+    "msPlayed" : 266653
+  },
+  {
+    "endTime" : "2022-06-21 17:09",
+    "artistName" : "Sukhwinder Singh",
+    "trackName" : "Chaiyya Chaiyya",
+    "msPlayed" : 416613
+  },
+  {
+    "endTime" : "2022-06-21 17:16",
+    "artistName" : "Karthik",
+    "trackName" : "Behka",
+    "msPlayed" : 311057
+  },
+  {
+    "endTime" : "2022-06-21 20:35",
+    "artistName" : "Suresh Wadkar",
+    "trackName" : "Raat Ke Dhai Baje",
+    "msPlayed" : 75830
+  },
+  {
+    "endTime" : "2022-07-01 18:23",
+    "artistName" : "Ajoy Chakrabarty",
+    "trackName" : "Aan Milo Sajna",
+    "msPlayed" : 322533
+  },
+  {
+    "endTime" : "2022-07-01 18:26",
+    "artistName" : "Udit Narayan",
+    "trackName" : "Hum Juda Ho Gaye",
+    "msPlayed" : 11962
+  },
+  {
+    "endTime" : "2022-07-01 18:43",
+    "artistName" : "Ajoy Chakrabarty",
+    "trackName" : "Aan Milo Sajna",
+    "msPlayed" : 159231
+  },
+  {
+    "endTime" : "2022-07-02 20:03",
+    "artistName" : "Abdullah Siddiqui",
+    "trackName" : "GO",
+    "msPlayed" : 193070
+  },
+  {
+    "endTime" : "2022-07-12 17:35",
+    "artistName" : "Jatin-Lalit",
+    "trackName" : "Mere Haath Mein",
+    "msPlayed" : 136575
+  },
+  {
+    "endTime" : "2022-07-13 16:19",
+    "artistName" : "Hasan Raheem",
+    "trackName" : "Aisay Kaisay",
+    "msPlayed" : 102909
+  },
+  {
+    "endTime" : "2022-07-18 03:54",
+    "artistName" : "Sona Mohapatra",
+    "trackName" : "Naina",
+    "msPlayed" : 8386
+  },
+  {
+    "endTime" : "2022-07-18 18:33",
+    "artistName" : "Atif Aslam",
+    "trackName" : "Aadat",
+    "msPlayed" : 3137
+  },
+  {
+    "endTime" : "2022-07-20 15:44",
+    "artistName" : "Ajay-Atul",
+    "trackName" : "Jeev Rangla",
+    "msPlayed" : 281333
+  },
+  {
+    "endTime" : "2022-07-20 15:46",
+    "artistName" : "Ayushmann Khurrana",
+    "trackName" : "O Heeriye",
+    "msPlayed" : 99753
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Penn Masala",
+    "trackName" : "Blinding Lights / Bol Na Halke Halke",
+    "msPlayed" : 5572
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Vishal Bhardwaj",
+    "trackName" : "Yaaram",
+    "msPlayed" : 741
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Shilpa Rao",
+    "trackName" : "Dhol Yaara Dhol",
+    "msPlayed" : 639
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Arijit Singh",
+    "trackName" : "Hai Dil Ye Mera",
+    "msPlayed" : 2665
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "KK",
+    "trackName" : "Saanson Ke",
+    "msPlayed" : 2790
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Shankar Mahadevan",
+    "trackName" : "Der Lagi Lekin",
+    "msPlayed" : 187
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Zariya",
+    "msPlayed" : 1441
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Armaan Malik",
+    "trackName" : "Sab Tera",
+    "msPlayed" : 254
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "Sonu Nigam",
+    "trackName" : "Meri Zindagi Mein Aaye Ho",
+    "msPlayed" : 2327
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Ay Hairathe",
+    "msPlayed" : 716
+  },
+  {
+    "endTime" : "2022-07-20 15:47",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Barso Re",
+    "msPlayed" : 1269
+  },
+  {
+    "endTime" : "2022-07-20 15:50",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Zinda",
+    "msPlayed" : 170737
+  },
+  {
+    "endTime" : "2022-07-20 15:53",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Nayan Tarse",
+    "msPlayed" : 187199
+  },
+  {
+    "endTime" : "2022-07-20 15:58",
+    "artistName" : "Kailash Kher",
+    "trackName" : "Allah Ke Bande",
+    "msPlayed" : 246883
+  },
+  {
+    "endTime" : "2022-07-20 16:04",
+    "artistName" : "Mithoon",
+    "trackName" : "Phir Bhi Tumko Chaahunga",
+    "msPlayed" : 351587
+  },
+  {
+    "endTime" : "2022-07-20 16:08",
+    "artistName" : "Ayushmann Khurrana",
+    "trackName" : "Saadi Galli Aaja (Unplugged)",
+    "msPlayed" : 202441
+  },
+  {
+    "endTime" : "2022-07-20 16:12",
+    "artistName" : "Vishal-Shekhar",
+    "trackName" : "Tu Aashiqui Hai",
+    "msPlayed" : 212515
+  },
+  {
+    "endTime" : "2022-07-21 14:54",
+    "artistName" : "Mohan Kannan",
+    "trackName" : "Panchi Ud Gaya",
+    "msPlayed" : 2113
+  },
+  {
+    "endTime" : "2022-07-21 15:26",
+    "artistName" : "Mohan Kannan",
+    "trackName" : "Panchi Ud Gaya",
+    "msPlayed" : 191293
+  },
+  {
+    "endTime" : "2022-07-21 16:48",
+    "artistName" : "Mohan Kannan",
+    "trackName" : "Panchi Ud Gaya",
+    "msPlayed" : 65667
+  },
+  {
+    "endTime" : "2022-07-21 16:59",
+    "artistName" : "Mohan Kannan",
+    "trackName" : "Panchi Ud Gaya",
+    "msPlayed" : 19156
+  },
+  {
+    "endTime" : "2022-07-21 18:57",
+    "artistName" : "Nusrat Fateh Ali Khan",
+    "trackName" : "Kehna Ghalat Ghalat to Chhupana Sahi Sahi",
+    "msPlayed" : 839306
+  },
+  {
+    "endTime" : "2022-07-21 19:03",
+    "artistName" : "Nusrat Fateh Ali Khan",
+    "trackName" : "Tumhe Dil Lagi Bhool Jani Padegi",
+    "msPlayed" : 4218
+  },
+  {
+    "endTime" : "2022-07-21 19:03",
+    "artistName" : "Harpreet",
+    "trackName" : "Ye Jo Pal Hai",
+    "msPlayed" : 7101
+  },
+  {
+    "endTime" : "2022-07-21 19:31",
+    "artistName" : "Nusrat Fateh Ali Khan",
+    "trackName" : "Tumhe Dil Lagi Bhool Jani Padegi",
+    "msPlayed" : 938600
+  },
+  {
+    "endTime" : "2022-07-26 09:15",
+    "artistName" : "Pritam",
+    "trackName" : "Itni Si Baat Hain",
+    "msPlayed" : 2154
+  },
+  {
+    "endTime" : "2022-07-26 09:15",
+    "artistName" : "Pritam",
+    "trackName" : "Itni Si Baat Hain",
+    "msPlayed" : 7967
+  },
+  {
+    "endTime" : "2022-07-26 09:15",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Saathiya",
+    "msPlayed" : 26792
+  },
+  {
+    "endTime" : "2022-07-26 09:15",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Saathiya",
+    "msPlayed" : 2045
+  },
+  {
+    "endTime" : "2022-07-26 09:21",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Saathiya",
+    "msPlayed" : 357433
+  },
+  {
+    "endTime" : "2022-07-26 09:23",
+    "artistName" : "Aditi Singh Sharma",
+    "trackName" : "Yahi Meri Zindagi",
+    "msPlayed" : 2305
+  },
+  {
+    "endTime" : "2022-07-26 09:23",
+    "artistName" : "Pritam",
+    "trackName" : "Itni Si Baat Hain",
+    "msPlayed" : 11584
+  },
+  {
+    "endTime" : "2022-07-26 09:26",
+    "artistName" : "Alyssa Mendonsa",
+    "trackName" : "Khaabon Ke Parinday",
+    "msPlayed" : 2297
+  },
+  {
+    "endTime" : "2022-07-26 09:26",
+    "artistName" : "Atif Aslam",
+    "trackName" : "Hoor",
+    "msPlayed" : 1393
+  },
+  {
+    "endTime" : "2022-07-26 09:26",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Ay Hairathe",
+    "msPlayed" : 1180
+  },
+  {
+    "endTime" : "2022-07-26 09:26",
+    "artistName" : "Vishal-Shekhar",
+    "trackName" : "Tu Aashiqui Hai",
+    "msPlayed" : 160056
+  },
+  {
+    "endTime" : "2022-07-26 09:31",
+    "artistName" : "Tajdar Junaid",
+    "trackName" : "Dastaan",
+    "msPlayed" : 207363
+  },
+  {
+    "endTime" : "2022-07-26 09:33",
+    "artistName" : "Sonu Nigam",
+    "trackName" : "Meri Zindagi Mein Aaye Ho",
+    "msPlayed" : 57335
+  },
+  {
+    "endTime" : "2022-07-26 09:39",
+    "artistName" : "Shankar-Ehsaan-Loy",
+    "trackName" : "Noor E Khuda",
+    "msPlayed" : 396973
+  },
+  {
+    "endTime" : "2022-07-26 09:56",
+    "artistName" : "Kailash Kher",
+    "trackName" : "Allah Ke Bande",
+    "msPlayed" : 246883
+  },
+  {
+    "endTime" : "2022-07-26 10:01",
+    "artistName" : "Shafqat Amanat Ali",
+    "trackName" : "Darmiyaan",
+    "msPlayed" : 304640
+  },
+  {
+    "endTime" : "2022-07-26 10:11",
+    "artistName" : "Monty Sharma",
+    "trackName" : "Yoon Shabnami",
+    "msPlayed" : 50456
+  },
+  {
+    "endTime" : "2022-07-26 10:16",
+    "artistName" : "Penn Masala",
+    "trackName" : "Blinding Lights / Bol Na Halke Halke",
+    "msPlayed" : 264611
+  },
+  {
+    "endTime" : "2022-07-26 10:18",
+    "artistName" : "Hasan Raheem",
+    "trackName" : "Aisay Kaisay",
+    "msPlayed" : 125634
+  },
+  {
+    "endTime" : "2022-07-26 10:21",
+    "artistName" : "Penn Masala",
+    "trackName" : "Blinding Lights / Bol Na Halke Halke",
+    "msPlayed" : 123075
+  },
+  {
+    "endTime" : "2022-07-26 10:23",
+    "artistName" : "Hasan Raheem",
+    "trackName" : "Aisay Kaisay",
+    "msPlayed" : 120488
+  },
+  {
+    "endTime" : "2022-07-26 10:28",
+    "artistName" : "Arijit Singh",
+    "trackName" : "Chal Wahan Jaate Hain",
+    "msPlayed" : 326121
+  },
+  {
+    "endTime" : "2022-07-26 10:33",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Zinda",
+    "msPlayed" : 241962
+  },
+  {
+    "endTime" : "2022-07-26 10:37",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Nayan Tarse",
+    "msPlayed" : 187199
+  },
+  {
+    "endTime" : "2022-07-26 10:42",
+    "artistName" : "Jeet Gannguli",
+    "trackName" : "Baatein Ye Kabhi Na - Male",
+    "msPlayed" : 289012
+  },
+  {
+    "endTime" : "2022-07-26 10:47",
+    "artistName" : "Arijit Singh",
+    "trackName" : "Hai Dil Ye Mera",
+    "msPlayed" : 297712
+  },
+  {
+    "endTime" : "2022-07-26 10:52",
+    "artistName" : "Ayushmann Khurrana",
+    "trackName" : "O Heeriye",
+    "msPlayed" : 215457
+  },
+  {
+    "endTime" : "2022-07-26 11:03",
+    "artistName" : "Amaal Mallik",
+    "trackName" : "Main Rahoon Ya Na Rahoon",
+    "msPlayed" : 57722
+  },
+  {
+    "endTime" : "2022-07-28 03:16",
+    "artistName" : "Shankar-Ehsaan-Loy",
+    "trackName" : "Main Aisa Kyon Hoon",
+    "msPlayed" : 274266
+  },
+  {
+    "endTime" : "2022-07-28 03:36",
+    "artistName" : "Pritam",
+    "trackName" : "Ilahi",
+    "msPlayed" : 10843
+  },
+  {
+    "endTime" : "2022-07-30 03:18",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Khalbali",
+    "msPlayed" : 338345
+  },
+  {
+    "endTime" : "2022-08-04 05:47",
+    "artistName" : "Rilès",
+    "trackName" : "LOST IN MY WORLD",
+    "msPlayed" : 11850
+  },
+  {
+    "endTime" : "2022-08-04 08:13",
+    "artistName" : "Lord Huron",
+    "trackName" : "The Night We Met",
+    "msPlayed" : 16380
+  },
+  {
+    "endTime" : "2022-08-05 17:56",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Scorpion",
+    "msPlayed" : 25240
+  },
+  {
+    "endTime" : "2022-08-05 20:07",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Trickle of Light",
+    "msPlayed" : 11072
+  },
+  {
+    "endTime" : "2022-08-05 20:07",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Unfolding Life",
+    "msPlayed" : 22906
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Voices in the Water",
+    "msPlayed" : 7180
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Field Music",
+    "msPlayed" : 12382
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Depth",
+    "msPlayed" : 19009
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Endless Forms",
+    "msPlayed" : 525
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Endless Forms",
+    "msPlayed" : 248
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Endless Forms",
+    "msPlayed" : 190
+  },
+  {
+    "endTime" : "2022-08-05 20:08",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Endless Forms",
+    "msPlayed" : 8744
+  },
+  {
+    "endTime" : "2022-08-05 20:09",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Cenote",
+    "msPlayed" : 3955
+  },
+  {
+    "endTime" : "2022-08-05 20:11",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Darwin's Bark Spider",
+    "msPlayed" : 133200
+  },
+  {
+    "endTime" : "2022-08-05 20:12",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Dna",
+    "msPlayed" : 72093
+  },
+  {
+    "endTime" : "2022-08-05 20:12",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Bat Cave",
+    "msPlayed" : 5172
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "The Idea of Home",
+    "msPlayed" : 2126
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Pondskater",
+    "msPlayed" : 4302
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Butterflies",
+    "msPlayed" : 4103
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Lightning Strikes America",
+    "msPlayed" : 30023
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Journey",
+    "msPlayed" : 4838
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Electric Current",
+    "msPlayed" : 4415
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Growth & Decay",
+    "msPlayed" : 3288
+  },
+  {
+    "endTime" : "2022-08-05 20:13",
+    "artistName" : "David Schweitzer",
+    "trackName" : "OffCentre",
+    "msPlayed" : 2803
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Running",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Sunrise",
+    "msPlayed" : 2800
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Time Before Carbon",
+    "msPlayed" : 2365
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "First Rain",
+    "msPlayed" : 10054
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Day of the Dead",
+    "msPlayed" : 2314
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Continuum",
+    "msPlayed" : 3705
+  },
+  {
+    "endTime" : "2022-08-05 20:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Scorpion",
+    "msPlayed" : 3634
+  },
+  {
+    "endTime" : "2022-08-05 20:16",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Proton Waterfall",
+    "msPlayed" : 104326
+  },
+  {
+    "endTime" : "2022-08-05 20:50",
+    "artistName" : "Isobel Waller-Bridge",
+    "trackName" : "Emma Is Lost",
+    "msPlayed" : 10305
+  },
+  {
+    "endTime" : "2022-08-11 17:38",
+    "artistName" : "Lord Huron",
+    "trackName" : "Love Like Ghosts",
+    "msPlayed" : 26793
+  },
+  {
+    "endTime" : "2022-08-11 17:43",
+    "artistName" : "Hemant Kumar",
+    "trackName" : "Hai Apna Dil To Aawara - Happy",
+    "msPlayed" : 261826
+  },
+  {
+    "endTime" : "2022-08-11 17:46",
+    "artistName" : "Kishore Kumar",
+    "trackName" : "Ek Ajnabee Haseena Se",
+    "msPlayed" : 200174
+  },
+  {
+    "endTime" : "2022-08-11 17:51",
+    "artistName" : "Mukesh",
+    "trackName" : "Kisi Ki Muskurahaton Pe",
+    "msPlayed" : 269333
+  },
+  {
+    "endTime" : "2022-08-11 17:52",
+    "artistName" : "Lata Mangeshkar",
+    "trackName" : "Yeh Kahan Aa Gaye Hum",
+    "msPlayed" : 32537
+  },
+  {
+    "endTime" : "2022-08-11 17:52",
+    "artistName" : "Manna Dey",
+    "trackName" : "Zindagi Kaisi Hai Paheli",
+    "msPlayed" : 4027
+  },
+  {
+    "endTime" : "2022-08-11 17:57",
+    "artistName" : "Amit Kumar",
+    "trackName" : "Bade Achhe Lagte Hain",
+    "msPlayed" : 312080
+  },
+  {
+    "endTime" : "2022-08-11 18:02",
+    "artistName" : "Asha Bhosle",
+    "trackName" : "Chura Liya Hai Tumne Jo Dil Ko",
+    "msPlayed" : 287840
+  },
+  {
+    "endTime" : "2022-08-11 18:07",
+    "artistName" : "Mohammed Rafi",
+    "trackName" : "Likhe Jo Khat Tujhe",
+    "msPlayed" : 273533
+  },
+  {
+    "endTime" : "2022-08-11 18:10",
+    "artistName" : "Mukesh",
+    "trackName" : "Main Pal Do Pal Ka Shair Hoon",
+    "msPlayed" : 204040
+  },
+  {
+    "endTime" : "2022-08-11 18:29",
+    "artistName" : "Sushma Shrestha",
+    "trackName" : "Kya Hua Tera Vada",
+    "msPlayed" : 257985
+  },
+  {
+    "endTime" : "2022-08-11 18:34",
+    "artistName" : "Kishore Kumar",
+    "trackName" : "Yeh Sham Mastani",
+    "msPlayed" : 276855
+  },
+  {
+    "endTime" : "2022-08-11 18:39",
+    "artistName" : "Hemant Kumar",
+    "trackName" : "Jane Woh Kaise Log The",
+    "msPlayed" : 259120
+  },
+  {
+    "endTime" : "2022-08-14 19:13",
+    "artistName" : "League of Legends",
+    "trackName" : "Starts Right Here",
+    "msPlayed" : 11162
+  },
+  {
+    "endTime" : "2022-08-17 11:14",
+    "artistName" : "Amit Trivedi",
+    "trackName" : "Zinda",
+    "msPlayed" : 12700
+  },
+  {
+    "endTime" : "2022-08-17 11:14",
+    "artistName" : "David Schweitzer",
+    "trackName" : "Scorpion",
+    "msPlayed" : 3330
+  },
+  {
+    "endTime" : "2022-08-17 11:18",
+    "artistName" : "Hasan Raheem",
+    "trackName" : "Aisay Kaisay",
+    "msPlayed" : 198857
+  },
+  {
+    "endTime" : "2022-08-17 11:22",
+    "artistName" : "Arijit Singh",
+    "trackName" : "Lambiyaan Si Judaiyaan (From \"Raabta\")",
+    "msPlayed" : 238243
+  },
+  {
+    "endTime" : "2022-08-17 11:27",
+    "artistName" : "Aditi Singh Sharma",
+    "trackName" : "Yahi Meri Zindagi",
+    "msPlayed" : 221425
+  },
+  {
+    "endTime" : "2022-08-17 11:34",
+    "artistName" : "Armaan Malik",
+    "trackName" : "Sab Tera",
+    "msPlayed" : 228116
+  },
+  {
+    "endTime" : "2022-08-17 12:05",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Zariya",
+    "msPlayed" : 320834
+  },
+  {
+    "endTime" : "2022-08-17 12:10",
+    "artistName" : "Monty Sharma",
+    "trackName" : "Yoon Shabnami",
+    "msPlayed" : 315360
+  },
+  {
+    "endTime" : "2022-08-17 12:15",
+    "artistName" : "Armaan Malik",
+    "trackName" : "Besabriyaan",
+    "msPlayed" : 255738
+  },
+  {
+    "endTime" : "2022-08-17 12:18",
+    "artistName" : "Sachin-Jigar",
+    "trackName" : "Haareya",
+    "msPlayed" : 214735
+  },
+  {
+    "endTime" : "2022-08-17 12:25",
+    "artistName" : "Shafqat Amanat Ali",
+    "trackName" : "Darmiyaan",
+    "msPlayed" : 353500
+  },
+  {
+    "endTime" : "2022-08-17 12:27",
+    "artistName" : "Priya Saraiya",
+    "trackName" : "Tere Bina",
+    "msPlayed" : 134341
+  },
+  {
+    "endTime" : "2022-08-17 12:31",
+    "artistName" : "Lucky Ali",
+    "trackName" : "O Sanam",
+    "msPlayed" : 223027
+  },
+  {
+    "endTime" : "2022-08-17 12:36",
+    "artistName" : "Jeet Gannguli",
+    "trackName" : "Baatein Ye Kabhi Na - Male",
+    "msPlayed" : 289012
+  },
+  {
+    "endTime" : "2022-08-17 12:43",
+    "artistName" : "Mithoon",
+    "trackName" : "Phir Bhi Tumko Chaahunga",
+    "msPlayed" : 351587
+  },
+  {
+    "endTime" : "2022-08-17 12:49",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Barso Re",
+    "msPlayed" : 329600
+  },
+  {
+    "endTime" : "2022-08-17 12:56",
+    "artistName" : "Shankar Mahadevan",
+    "trackName" : "Der Lagi Lekin",
+    "msPlayed" : 355915
+  },
+  {
+    "endTime" : "2022-08-17 13:00",
+    "artistName" : "Alyssa Mendonsa",
+    "trackName" : "Khaabon Ke Parinday",
+    "msPlayed" : 251704
+  },
+  {
+    "endTime" : "2022-08-17 13:05",
+    "artistName" : "KK",
+    "trackName" : "Saanson Ke",
+    "msPlayed" : 242857
+  },
+  {
+    "endTime" : "2022-08-17 13:09",
+    "artistName" : "Penn Masala",
+    "trackName" : "Blinding Lights / Bol Na Halke Halke",
+    "msPlayed" : 264611
+  },
+  {
+    "endTime" : "2022-08-17 13:13",
+    "artistName" : "Ayushmann Khurrana",
+    "trackName" : "O Heeriye",
+    "msPlayed" : 215457
+  },
+  {
+    "endTime" : "2022-08-17 13:17",
+    "artistName" : "Atif Aslam",
+    "trackName" : "Hoor",
+    "msPlayed" : 237360
+  },
+  {
+    "endTime" : "2022-08-17 13:23",
+    "artistName" : "Vishal-Shekhar",
+    "trackName" : "Tu Aashiqui Hai",
+    "msPlayed" : 368546
+  },
+  {
+    "endTime" : "2022-08-17 13:30",
+    "artistName" : "Shankar-Ehsaan-Loy",
+    "trackName" : "Noor E Khuda",
+    "msPlayed" : 396973
+  },
+  {
+    "endTime" : "2022-08-17 13:34",
+    "artistName" : "Ankur Tewari",
+    "trackName" : "Jeene Mein Aye Maza",
+    "msPlayed" : 199344
+  },
+  {
+    "endTime" : "2022-08-17 13:37",
+    "artistName" : "Ayushmann Khurrana",
+    "trackName" : "Saadi Galli Aaja (Unplugged)",
+    "msPlayed" : 202441
+  },
+  {
+    "endTime" : "2022-08-17 13:44",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Saathiya",
+    "msPlayed" : 357433
+  },
+  {
+    "endTime" : "2022-08-17 13:49",
+    "artistName" : "Sonu Nigam",
+    "trackName" : "Meri Zindagi Mein Aaye Ho",
+    "msPlayed" : 328946
+  },
+  {
+    "endTime" : "2022-08-19 05:50",
+    "artistName" : "Tajdar Junaid",
+    "trackName" : "Dastaan",
+    "msPlayed" : 2500
+  },
+  {
+    "endTime" : "2022-08-19 05:50",
+    "artistName" : "Arijit Singh",
+    "trackName" : "Hai Dil Ye Mera",
+    "msPlayed" : 2470
+  },
+  {
+    "endTime" : "2022-08-19 07:46",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Chhoti Si Aasha - Version, 1",
+    "msPlayed" : 7120
+  },
+  {
+    "endTime" : "2022-08-25 09:43",
+    "artistName" : "Pritam",
+    "trackName" : "Itni Si Baat Hain",
+    "msPlayed" : 3130
+  },
+  {
+    "endTime" : "2022-08-25 09:43",
+    "artistName" : "Sanam",
+    "trackName" : "Roop Tera Mastana",
+    "msPlayed" : 4520
+  },
+  {
+    "endTime" : "2022-08-25 09:50",
+    "artistName" : "Sukhwinder Singh",
+    "trackName" : "Chaiyya Chaiyya",
+    "msPlayed" : 416613
+  },
+  {
+    "endTime" : "2022-08-25 09:54",
+    "artistName" : "Pritam",
+    "trackName" : "Ilahi",
+    "msPlayed" : 228982
+  },
+  {
+    "endTime" : "2022-08-25 09:59",
+    "artistName" : "Asha Bhosle",
+    "trackName" : "Hungama Ho Gaya",
+    "msPlayed" : 320773
+  },
+  {
+    "endTime" : "2022-08-25 10:04",
+    "artistName" : "KK",
+    "trackName" : "Kya Mujhe Pyar Hai",
+    "msPlayed" : 266653
+  },
+  {
+    "endTime" : "2022-08-25 10:09",
+    "artistName" : "Karthik",
+    "trackName" : "Behka",
+    "msPlayed" : 311057
+  },
+  {
+    "endTime" : "2022-08-25 10:14",
+    "artistName" : "Shankar-Ehsaan-Loy",
+    "trackName" : "Main Aisa Kyon Hoon",
+    "msPlayed" : 274266
+  },
+  {
+    "endTime" : "2022-08-25 10:19",
+    "artistName" : "Suresh Wadkar",
+    "trackName" : "Raat Ke Dhai Baje",
+    "msPlayed" : 269601
+  },
+  {
+    "endTime" : "2022-08-25 10:25",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Khalbali",
+    "msPlayed" : 379226
+  },
+  {
+    "endTime" : "2022-08-25 10:31",
+    "artistName" : "Abdullah Siddiqui",
+    "trackName" : "GO",
+    "msPlayed" : 348230
+  },
+  {
+    "endTime" : "2022-08-25 10:34",
+    "artistName" : "Sanam",
+    "trackName" : "Roop Tera Mastana",
+    "msPlayed" : 179285
+  },
+  {
+    "endTime" : "2022-08-25 10:41",
+    "artistName" : "Sukhwinder Singh",
+    "trackName" : "Chaiyya Chaiyya",
+    "msPlayed" : 416613
+  },
+  {
+    "endTime" : "2022-08-25 10:42",
+    "artistName" : "Pritam",
+    "trackName" : "Ilahi",
+    "msPlayed" : 19217
+  },
+  {
+    "endTime" : "2022-08-27 14:35",
+    "artistName" : "Shantanu Moitra",
+    "trackName" : "Ye Nadi Chali Kahan - From \"Songs Of The River - Ganga\"",
+    "msPlayed" : 124770
+  },
+  {
+    "endTime" : "2022-08-27 18:30",
+    "artistName" : "Ram Sampath",
+    "trackName" : "Tere Siva",
+    "msPlayed" : 124370
+  },
+  {
+    "endTime" : "2022-09-13 16:15",
+    "artistName" : "KK",
+    "trackName" : "Kya Mujhe Pyar Hai",
+    "msPlayed" : 266653
+  },
+  {
+    "endTime" : "2022-09-13 16:21",
+    "artistName" : "Suresh Wadkar",
+    "trackName" : "Raat Ke Dhai Baje",
+    "msPlayed" : 269601
+  },
+  {
+    "endTime" : "2022-09-13 16:24",
+    "artistName" : "Sanam",
+    "trackName" : "Roop Tera Mastana",
+    "msPlayed" : 179285
+  },
+  {
+    "endTime" : "2022-09-13 16:28",
+    "artistName" : "Pritam",
+    "trackName" : "Ilahi",
+    "msPlayed" : 228982
+  },
+  {
+    "endTime" : "2022-09-13 16:35",
+    "artistName" : "A.R. Rahman",
+    "trackName" : "Khalbali",
+    "msPlayed" : 379226
+  },
+  {
+    "endTime" : "2022-09-13 16:41",
+    "artistName" : "Abdullah Siddiqui",
+    "trackName" : "GO",
+    "msPlayed" : 348230
+  },
+  {
+    "endTime" : "2022-09-13 16:47",
+    "artistName" : "Karthik",
+    "trackName" : "Behka",
+    "msPlayed" : 311057
+  },
+  {
+    "endTime" : "2022-09-13 16:54",
+    "artistName" : "Sukhwinder Singh",
+    "trackName" : "Chaiyya Chaiyya",
+    "msPlayed" : 416613
+  },
+  {
+    "endTime" : "2022-09-13 16:55",
+    "artistName" : "Asha Bhosle",
+    "trackName" : "Hungama Ho Gaya",
+    "msPlayed" : 34154
+  },
+  {
+    "endTime" : "2022-09-13 17:01",
+    "artistName" : "Rashid Khan",
+    "trackName" : "Aaoge Jab Tum",
+    "msPlayed" : 355065
+  },
+  {
+    "endTime" : "2022-09-13 17:07",
+    "artistName" : "Asfar Hussain",
+    "trackName" : "Mehram",
+    "msPlayed" : 338973
+  },
+  {
+    "endTime" : "2022-09-13 17:12",
+    "artistName" : "Shreya Ghoshal",
+    "trackName" : "Rehnuma",
+    "msPlayed" : 261646
+  },
+  {
+    "endTime" : "2022-09-13 17:16",
+    "artistName" : "Shae Gill",
+    "trackName" : "Pasoori",
+    "msPlayed" : 224146
+  },
+  {
+    "endTime" : "2022-09-13 17:19",
+    "artistName" : "Julius Packiam-Joshilay",
+    "trackName" : "Bande Hain Hum Uske",
+    "msPlayed" : 184633
+  },
+  {
+    "endTime" : "2022-09-13 17:27",
+    "artistName" : "Salim–Sulaiman",
+    "trackName" : "O Re Piya",
+    "msPlayed" : 379768
+  },
+  {
+    "endTime" : "2022-09-21 13:57",
+    "artistName" : "Pritam",
+    "trackName" : "Tur Kalleyan (From \"Laal Singh Chaddha\")",
+    "msPlayed" : 6280
+  },
+  {
+    "endTime" : "2022-09-21 13:57",
+    "artistName" : "Pritam",
+    "trackName" : "Tur Kalleyan (From \"Laal Singh Chaddha\")",
+    "msPlayed" : 4660
+  },
+  {
+    "endTime" : "2022-09-21 13:57",
+    "artistName" : "Pritam",
+    "trackName" : "Tur Kalleyan",
+    "msPlayed" : 7650
+  },
+  {
+    "endTime" : "2022-09-21 13:57",
+    "artistName" : "Pritam",
+    "trackName" : "Tur Kalleyan",
+    "msPlayed" : 11280
+  },
+  {
+    "endTime" : "2022-09-21 14:01",
+    "artistName" : "Pritam",
+    "trackName" : "Tur Kalleyan",
+    "msPlayed" : 232211
+  },
+  {
+    "endTime" : "2022-09-21 15:20",
+    "artistName" : "Pritam",
+    "trackName" : "Tur Kalleyan",
+    "msPlayed" : 34178
+  }
+]
