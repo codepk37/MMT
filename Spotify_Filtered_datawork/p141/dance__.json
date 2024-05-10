@@ -1,0 +1,22 @@
+{
+  "dance_1": 0.696,
+  "energy_1": 0.9255,
+  "loudness_1": -4.466,
+  "mode_1": 1.0,
+  "speechi_1": 0.10735,
+  "acoustic_1": 0.05321,
+  "instrumental_1": 0.3785,
+  "liveness_1": 0.28665,
+  "valence_1": 0.7535000000000001,
+  "tempo_1": 144.039,
+  "dance_2": 0.397,
+  "energy_2": 0.0118,
+  "loudness_2": -30.851,
+  "mode_2": 1.0,
+  "speechi_2": 0.0447,
+  "acoustic_2": 0.994,
+  "instrumental_2": 0.957,
+  "liveness_2": 0.0944,
+  "valence_2": 0.179,
+  "tempo_2": 71.049
+}

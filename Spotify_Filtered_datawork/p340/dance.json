@@ -1,0 +1,22 @@
+{
+  "dance_vara": 0.0,
+  "energy_vara": 0.0,
+  "loudness_vara": 0.0,
+  "mode_vara": 0.0,
+  "speechiness_vara": 0.0,
+  "acoustic_vara": 0.0,
+  "instrument_vara": 0.0,
+  "liveness_vara": 0.0,
+  "valence_vara": 0.0,
+  "tempo_vara": 0.0,
+  "dance_autocorr": 0,
+  "energy_autocorr": 0,
+  "loudness_autocorr": 0,
+  "mode_autocorr": 0,
+  "speechiness_autocorr": 0,
+  "acoustic_autocorr": 0,
+  "instrument_autocorr": 0,
+  "liveness_autocorr": 0,
+  "valence_autocorr": 0,
+  "tempo_autocorr": 0
+}

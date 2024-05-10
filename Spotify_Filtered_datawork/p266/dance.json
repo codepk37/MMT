@@ -1,0 +1,22 @@
+{
+  "dance_vara": 0.09642295068843157,
+  "energy_vara": 0.1303054209140438,
+  "loudness_vara": 3.1097227920614006,
+  "mode_vara": 0.22894353686337662,
+  "speechiness_vara": 0.04411079792668116,
+  "acoustic_vara": 0.1690539948939634,
+  "instrument_vara": 0.16760698962466467,
+  "liveness_vara": 0.06642592473668713,
+  "valence_vara": 0.13163366343945712,
+  "tempo_vara": 14.3821537526205,
+  "dance_autocorr": 3.6735385033526877,
+  "energy_autocorr": 2.6858270982847516,
+  "loudness_autocorr": 23.70674647953557,
+  "mode_autocorr": 1.484229657981721,
+  "speechiness_autocorr": 0.18124152157774007,
+  "acoustic_autocorr": 0.5237785693005885,
+  "instrument_autocorr": 0.16150860360646185,
+  "liveness_autocorr": 0.4854457613441842,
+  "valence_autocorr": 1.3513903888970633,
+  "tempo_autocorr": 1012.5370828207872
+}
